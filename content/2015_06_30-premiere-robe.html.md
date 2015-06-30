@@ -5,7 +5,7 @@ Date: 2015-06-30 00:03
 Slug: premiere-robe
 Lang: fr
 
-**Marque et Modèle :** tiré du livre "Ma garde robe idéale"<br>
+**Marque et Modèle :** tiré du livre "[Ma garde robe idéale](http://www.marabout.com/la-garde-robe-ideale-9782501096843)"<br>
 **Taille :** 38<br>
 **Métrage et Fourniture:** <br>
 - Au moins 1m50 de tissu "confettis", <br>
