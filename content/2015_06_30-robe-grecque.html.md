@@ -18,7 +18,7 @@ Ce tissu je l'ai vu à [tissu éco](http://www.tissu-eco.com/). Une caverne d'Al
 Donc ce tissu je l'avais vu d'abord là bas, et j'avais été raisonable, je m'étais retenu de l'acheter. Mais ma raison n'a pas tenu longtemps quand je l'ai recroisé 2 jours après, le dimanche matin sur le marché à 1€ le mètre. C'est bien simple, j'en ai pris 2 mètres :)
 
 <figure>
-	<img src="images/robe_grecque_1.JPG" alt="robe grecque 1">
+	<img src="/images/robe_grecque_1.JPG" alt="robe grecque 1">
 	<figcaption> Regardez ce super tissu !</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Ce tissu est fin (plutôt beaucoup même par rapport aux précédents tissus que
 Donc j'avais envie d'une robe d'été légère. Pour le patron, j'ai choisi de coudre la "Gathered Sundress" (histoire de rester dans le thème de l'été). 
 
 <figure>
-	<img src="images/robe_grecque_3.JPG" alt="robe grecque 2">
+	<img src="/images/robe_grecque_3.JPG" alt="robe grecque 2">
 	<figcaption> Ici, on voit ces super poches !</figcaption>
 </figure>
 Donc parlons un peu de ce modèle :
@@ -39,7 +39,7 @@ Sur ce modèle, il y a  : <br>
 
 
 <figure>
-	<img src="images/robe_grecque_4.JPG" alt="robe grecque 3">
+	<img src="/images/robe_grecque_4.JPG" alt="robe grecque 3">
 	<figcaption> et là, si on plisse les yeux, on voit les découpes princesses</figcaption>
 </figure>
 Les modifications que j'ai réalisées sont de : 
@@ -51,7 +51,7 @@ Les modifications que j'ai réalisées sont de :
  et en plus elle tourne (un peu :))
 
  <figure>
-	<img src="images/robe_grecque_2.JPG" alt="robe grecque 4">
+	<img src="/images/robe_grecque_2.JPG" alt="robe grecque 4">
 </figure>
 
 Je la referais bien en mettant en valeur ces fameuses découpes comme [l'Énervée de la machine à coudre](http://lenerveedelamachineacoudre.blogspot.fr/2015/05/retrospective-davril-3-gathered-sundress.html), pour les faire correspondre avec la forme des poches.

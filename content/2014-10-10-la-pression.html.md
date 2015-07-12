@@ -13,7 +13,7 @@ On a tous entendu parler de la pression atmosphérique, c'est la  force qu'appli
 Elle est égale, lorsque l'on est au niveau de la mer à environ : 
 1013,25 hPA soit 1,01325. 10⁵ Pa ou 1 atm (= atmosphère) ou encore environ 1 bar (= 10⁵ Pa). 
 <figure>
-	<img src="images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique">
+	<img src="/images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique">
 	<figcaption>La terre et le détail des couches constituant l'atmosphère (Crédits : [Astrophysique mesures](http://media4.obspm.fr/public/AMC/credit_asm.html))</figcaption>
 </figure>
 
