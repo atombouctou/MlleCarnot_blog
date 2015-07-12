@@ -12,9 +12,9 @@ Lang: fr
 - 1 fermeture éclair,<br>
 - 2m de biais blanc
 
-Allez hop ! On commence la saga des robes. Celle ci c'est la robe dite grecque, parce que les motifs du tissu me font penser à la Grèce.
+Allez hop ! On commence la saga des robes. Celle-ci c'est la robe dite grecque, parce que les motifs du tissu me font penser à la Grèce.
 
-Ce tissu je l'ai vu à [tissu éco](http://www.tissu-eco.com/). Une caverne d'Ali Baba de tissu, il y a des rouleaux du sol au plafond, et cachés au milieu de tout ça, il y a des merveilles ! Donc ce tissu je l'avais vu d'abord là-bas, et j'avais été raisonnable, je m'étais retenue de l'acheter. Mais ma raison n'a pas tenu longtemps quand je l'ai recroisé 2 jours après, le dimanche matin sur le marché à 1€ le mètre. C'est bien simple, j'en ai pris 2 mètres :)
+Ce tissu je l'ai vu à [tissu éco](http://www.tissu-eco.com/). Une caverne d'Ali Baba de tissu, il y a des rouleaux du sol au plafond, et cachées au milieu de tout ça, il y a des merveilles ! Donc ce tissu je l'avais vu d'abord là-bas, et j'avais été raisonnable, je m'étais retenue de l'acheter. Mais ma raison n'a pas tenu longtemps quand je l'ai recroisé 2 jours après, le dimanche matin sur le marché à 1€ le mètre. C'est bien simple, j'en ai pris 2 mètres :)
 
 <figure>
 	<img src="/images/robe_grecque_1.JPG" alt="robe grecque 1">
