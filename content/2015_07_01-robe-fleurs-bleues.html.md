@@ -64,7 +64,14 @@ D'un point de vue plus technique, j'aime bien la construction du devant de la ro
 C'est un assemblage de plusieurs triangles, c'est original je trouve, ça change des autres types de corsages et donne une identité à la robe. De plus, ça permet de pouvoir faire des variations mettant en valeur ces découpes. *(ce que je n'ai pas du tout fait)*. 
 Mais par contre, ça complexifie un peu les ajustements. 
 
-Pour conclure, c'est vraiment un chouette modèle. J'ai aimé le coudre et j'aime le porter. 
+D'un point de vue de la structure du modèle, il y a un détail que j'aime particulièrment : ce sont les bretelles. 
+Je trouve que ça rend la robe très féminine et délicate. 
+Bref j'adore :)
+<figure>
+	<img src="/images/robe_fleur_bleue_bretelles.JPG" alt="robe fleur bleue bretelle">
+</figure>
+
+Pour conclure, c'est vraiment un chouette modèle. J'ai aimé le coudre et j'aime le porter.<br>
 *La preuve, une autre version est en cours :)*
 
 <figure>
