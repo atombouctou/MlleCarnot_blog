@@ -40,7 +40,7 @@ Sur ce modèle, il y a :<br>
 	<img src="/images/robe_grecque_4.JPG" alt="robe grecque 3">
 	<figcaption>et là, si on plisse les yeux, on voit les découpes princesses</figcaption>
 </figure>
-Les modifications que j'ai réalisées sont de :
+Les modifications que j'ai réalisées sont de :<br>
 - réduire d'au moins 3 cm de chaque côté pour que le corps de la robe soit plus ajusté à ma taille.<br>
 - supprimer la doublure, parce que je voulais vraiment que cette robe soit légère.<br>
 - raccourcir la jupe de 10 cm, pour qu'elle m'arrive juste au dessus des genoux.<br>
