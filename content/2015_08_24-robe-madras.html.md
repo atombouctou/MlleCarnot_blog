@@ -40,8 +40,8 @@ Bon, je n'ai pas fait de toile (parce que ça n'est pas dans mes habitudes 'haha
 </figure>
 
 Bref, tout ça pour dire que si j'avais fonctionné de la sorte avant de coudre cette robe j'aurais quand pu appliquer quelques modifications minimes telle que : 
-- abaisser la taille de 3 centimètres
-- remonter les poches (de 10 cm ?)
+- abaisser la taille de 3 centimètres<br>
+- remonter les poches (de 10 cm ?)<br>
 
 Ces modifications mises à part (elles ont été apportées à ma version suivante), ce patron est très agréable à coudre, le corsage tombe très bien, j'adore la forme et je suis bien dans cette robe quand je la porte. Un bilan très positif en somme :)
 <figure>
