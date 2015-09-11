@@ -6,7 +6,7 @@
 Elle est égale, lorsque l'on est au niveau de la mer à environ : 
 1013,25 hPA soit 1,01325. 10⁵ Pa ou 1 atm (= atmosphère) ou encore environ 1 bar (= 10⁵ Pa). 
 &lt;figure&gt;
-    &lt;img src="/images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique"&gt;
+    &lt;img src="images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique"&gt;
     &lt;figcaption&gt;La terre et le détail des couches constituant l'atmosphère (Crédits : &lt;a href="http://media4.obspm.fr/public/AMC/credit_asm.html"&gt;Astrophysique mesures&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;!--(Je me permets de faire une petite parenthèse;
@@ -94,7 +94,7 @@ Et bien, c'est juste une autre échelle de température. Cette échelle est prin
 &lt;p&gt;Un thermomètre est un appareil qui sert à mesurer et afficher la valeur de la température.
 Un thermomètre est généralement un tube étroit dans lequel est contenu un fluide (alcool, mercure, ...). Lorsque la température s'élève, le fluide se dilate et ainsi, on verra le niveau du fluide monter à travers la paroi du tube.
 &lt;figure&gt;
-    &lt;img src="/images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit"&gt;
+    &lt;img src="images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit"&gt;
     &lt;figcaption&gt;Thermomètre gradué en degrés Celsius et Farenheit&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Le principe aurait été développé par le médecin &lt;a href="https://fr.wikipedia.org/wiki/Santorio_Santorio"&gt;Sanctorius&lt;/a&gt; au XVII siècle. 
@@ -108,7 +108,7 @@ Les points fixes de son échelle sont :&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;En 1717, l'allemand &lt;a href="https://fr.wikipedia.org/wiki/Gabriel_Fahrenheit"&gt;Fahrenheit&lt;/a&gt; propose un nouveau thermomètre, le principe reste le même, simplement il remplace l'alcool par du mercure. 
 &lt;figure&gt;
-    &lt;img src="/images/GabrielFahrenheit.jpg" alt="Gabreil_Fahrenheit"&gt;
+    &lt;img src="images/GabrielFahrenheit.jpg" alt="Gabreil_Fahrenheit"&gt;
     &lt;figcaption&gt;&lt;a href="https://fr.wikipedia.org/wiki/Gabriel_Fahrenheit"&gt;Gabriel Fahrenheit&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Suite à cela, il propose une nouvelle échelle. Cette échelle sera largement adoptée par la communauté scientifique de l'époque. 
@@ -124,7 +124,7 @@ Il choisit pour point fixe :&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;En 1741, Anders Celsius, astronome et physicien suédois.
 &lt;figure&gt;
-    &lt;img src="/images/AndersCelsius.jpg" alt="Anders_Celsius"&gt;
+    &lt;img src="images/AndersCelsius.jpg" alt="Anders_Celsius"&gt;
     &lt;figcaption&gt;&lt;a href="https://fr.wikipedia.org/wiki/Anders_Celsius"&gt;Anders Celsius&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;propose lui aussi une échelle de température. Il choisit pour points fixes les températures de changements d'états de l'eau à pression atmosphérique :&lt;/p&gt;
@@ -146,23 +146,23 @@ Au zéro absolu il n'y a plus de mouvement de particules, donc la température e
 &lt;p&gt;Plusieurs personnes ont évoqué cette idée avant qu'elle ne soit concrétisée par William Thomson.&lt;/p&gt;
 &lt;p&gt;Tout d'abord le français &lt;a href="https://fr.wikipedia.org/wiki/Guillaume_Amontons"&gt;Guillaume Amontons&lt;/a&gt;, remarque en 1702 qu'il existe une relation entre la pression et la température des gaz. Il est le premier à proposer l'hypothese du zéro absolu. 
 &lt;figure&gt;
-    &lt;img src="/images/Gas_thermometer_and_absolute_zero_fr.jpg" alt="Zéro absolu à partir de l'analyse des gaz"&gt;
+    &lt;img src="images/Gas_thermometer_and_absolute_zero_fr.jpg" alt="Zéro absolu à partir de l'analyse des gaz"&gt;
     &lt;figcaption&gt;&lt;a href="https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu"&gt;Zéro absolu&lt;/a&gt; à partir de l'analyse des gaz&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Il remarque que lorsqu'il baisse la pression de différents gaz ceux-ci baissent aussi en température. Si il prolonge asymptotiquement les droites Pression-Température qu'il a obtenues par l'expérience, elles tirent vers le même point : le zéro absolu. Sa théorie ne sera pas poursuivie faute de thermomètre performant. &lt;/p&gt;
 &lt;p&gt;En 1824, lorsque Sadi Carnot sort ses &lt;strong&gt;&lt;em&gt;Réflexions&lt;/em&gt;&lt;/strong&gt; sur les machines motrices, il propose dans une de ses notes de bas de pages (d'abord négligée par les premiers commentateurs) que le rendement d'une machine thermique idéale pourrait servir de base pour une échelle de température. 
 &lt;figure&gt;
-    &lt;img src="/images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot"&gt;
+    &lt;img src="images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot"&gt;
     &lt;figcaption&gt;&lt;a href="https://fr.wikipedia.org/wiki/Sadi_Carnot_%28physicien%29"&gt;Sadi Carnot&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;En 1848, c'est exactement cette idée là que développe William Thomson lorsqu'il propose une échelle de température absolue.
 &lt;figure&gt;
-    &lt;img src="/images/WilliamThomson_LordKelvin.jpg" alt="William_Thomson(Lord_Kelvin)"&gt;
+    &lt;img src="images/WilliamThomson_LordKelvin.jpg" alt="William_Thomson(Lord_Kelvin)"&gt;
     &lt;figcaption&gt;&lt;a href="https://fr.wikipedia.org/wiki/William_Thomson_%28Lord_Kelvin%29"&gt;William Thomson - Lord Kelvin&lt;/a&gt;&lt;/figcaption&gt;
  &lt;/figure&gt; &lt;/p&gt;
 &lt;p&gt;Dans son échelle, une évolution (augmentation ou diminution) de la température mesurée correspond à une évolution équivalente de chaleur du corps étudié. 
 &lt;figure&gt;
-    &lt;img src="/images/Expérience_illustrant_echelle_température_absolue.png" alt="expérience echelle de temperature"&gt;
+    &lt;img src="images/Expérience_illustrant_echelle_température_absolue.png" alt="expérience echelle de temperature"&gt;
     &lt;figcaption&gt;&lt;a href="http://documents.ariadacapo.net/cours/thermodynamique/chapitre_7.pdf"&gt;Expérience illustrant l'échelle de Température absolue&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Le rejet étant proportionnel à la différence de température, Thomson en déduit l'existence d'un zéro absolu. Maintenant pour avoir une échelle, il faut la graduer. 
@@ -245,12 +245,12 @@ Son travail révolutionna le domaine de la physique, car il permit de séparer d
 &lt;p&gt;&lt;strong&gt;Dans la vie courante&lt;/strong&gt; la température est liée aux sensations de chaud et de froid. Ce que l'on ressent sont les différences de températures entre notre corps et l'environnement extérieur.
 Si il y a une différence de température, alors il y a un transfert thermique. L'élément le plus chaud va se refroidir et l'élément le plus froid va se réchauffer.
 &lt;figure&gt;
-    &lt;img src="/images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit"&gt;
+    &lt;img src="images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit"&gt;
     &lt;figcaption&gt;Thermometre gradué en degrés Celsius et Farenheit&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;En physique&lt;/strong&gt;; On sait que les particules qui composent un système matériel ne sont jamais au repos. Plus elles s'agitent plus il y a de frottements entre elles plus il y a une dissipation importante d'énergie thermique.
 &lt;figure&gt;
-    &lt;img src="/images/Thermally_Agitated_Molecule.gif" alt="Agitation thermique d'une protéine"&gt;
+    &lt;img src="images/Thermally_Agitated_Molecule.gif" alt="Agitation thermique d'une protéine"&gt;
     &lt;figcaption&gt;Agitation thermique d'un segment de la protéine alpha hélix (&lt;a href="https://en.wikipedia.org/wiki/Temperature"&gt;Wikipédia&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Ainsi la température est une grandeur physique qui caractérise cette dissipation thermique et de ce fait c'est une mesure indirecte de l'agitation moléculaire d'un système.&lt;/p&gt;</summary><category term="température"></category><category term="grandeurs caractéristiques"></category></entry><entry><title>Mais qu'est ce que la Chaleur ? (Partie I)</title><link href="http://merlin.dustri.org/mais-quest-ce-que-la-chaleur-partie-i.html" rel="alternate"></link><updated>2014-11-23T00:00:00+01:00</updated><author><name>Mlle Carnot</name></author><id>tag:merlin.dustri.org,2014-11-23:mais-quest-ce-que-la-chaleur-partie-i.html</id><summary type="html">&lt;h2&gt;Partie I : Petite histoire de la chaleur&lt;/h2&gt;
@@ -285,19 +285,19 @@ La masse qui "partait" était le phlogistique qui s'exprimait sous forme de chal
 &lt;strong&gt;&lt;em&gt;Or tout ça est lié !&lt;/em&gt;&lt;/strong&gt;
 Aujourd'hui, on sait que pour avoir une flamme, il faut du &lt;a href="https://fr.wikipedia.org/wiki/Comburant"&gt;comburant&lt;/a&gt;, du &lt;a href="https://fr.wikipedia.org/wiki/Combustible"&gt;combustible&lt;/a&gt; et une source d'énergie thermique (chaleur).&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src="/images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu"&gt;
+    &lt;img src="images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu"&gt;
     &lt;figcaption&gt;Triangle du feu&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Bon, la théorie du phlogistique s'est révélée fausse. 
 Cela a été mis en évidence par &lt;em&gt;&lt;a href="https://fr.wikipedia.org/wiki/Antoine_Lavoisier"&gt;Antoine Laurent de Lavoisier&lt;/a&gt;&lt;/em&gt; qui a montré l'implication de l'oxygène dans le processus de combustion.
 &lt;figure&gt;
-    &lt;img src="/images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze"&gt;
+    &lt;img src="images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze"&gt;
     &lt;figcaption&gt;Antoine Lavoisier et sa femme : &lt;a href="https://fr.wikipedia.org/wiki/Marie-Anne_Pierrette_Paulze"&gt;Marie-Anne Pierrette Paulze&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Au XVIII siècle: une nouvelle théorie est mise en place par &lt;em&gt;&lt;a href="https://fr.wikipedia.org/wiki/Joseph_Black"&gt;Joseph Black&lt;/a&gt;&lt;/em&gt; pour développer ce concept de chaleur : &lt;strong&gt;&lt;a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_calorique"&gt;la théorie du calorique&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src="/images/Joseph_Black2.jpg" alt="Gravure de Joseph Black"&gt;
+    &lt;img src="images/Joseph_Black2.jpg" alt="Gravure de Joseph Black"&gt;
     &lt;figcaption&gt;Joseph Black&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -307,7 +307,7 @@ Cela a été mis en évidence par &lt;em&gt;&lt;a href="https://fr.wikipedia.org
 &lt;p&gt;&lt;em&gt;Notons tout de même que la théorie du calorique (aujourd'hui complètement obsolète) a permis à Joseph Black de mettre en place des concepts de &lt;strong&gt;&lt;em&gt;chaleur latente&lt;/em&gt;&lt;/strong&gt; et de &lt;strong&gt;&lt;em&gt;chaleur spécifique&lt;/em&gt;&lt;/strong&gt;. En fait aujourd'hui on parle d'"&lt;a href="https://fr.wikipedia.org/wiki/Enthalpie_de_changement_d%27%C3%A9tat"&gt;enthalpie de changement d'état&lt;/a&gt;" et de "&lt;a href="https://fr.wikipedia.org/wiki/Capacit%C3%A9_thermique_massique"&gt;capacité thermique massique&lt;/a&gt;". Mais ces termes sont encore employés dans certaines documentations.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Au XIX siècle (en 1824 précisément), &lt;strong&gt;&lt;a href="https://fr.wikipedia.org/wiki/Sadi_Carnot_%28physicien%29"&gt;Sadi Carnot&lt;/a&gt;&lt;/strong&gt; publie ses "&lt;em&gt;Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance&lt;/em&gt;" soit les machines thermiques.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src="/images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot"&gt;
+    &lt;img src="images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot"&gt;
     &lt;figcaption&gt;Sadi Carnot&lt;/figcaption&gt;
 &lt;/figure&gt;
 
