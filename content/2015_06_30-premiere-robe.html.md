@@ -20,7 +20,7 @@ C'est aussi un de mes premiers projets. J'ai commencé à coudre en allant à [L
 Donc en arrivant là-bas j'ai commencé à coudre. D'abord des shorts chataîgnes, et puis cette robe :
 
 <figure>
-	<img src="/images/robe_confetti_1.JPG" alt="première robe 1">
+	<img src="images/robe_confetti_1.JPG" alt="première robe 1">
 	<figcaption>Ma première robe (surnommée la robe confettis)</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ C'est une robe à découpes princesses, ce qui lui donne un très joli tombé, j
 De plus, c'est un modèle entièrement doublé. J'ai doublé le corps avec du coton (pour le confort), et la jupe avec un satin pour qu'elle n'accroche pas aux collants (pour le confort également).
 
 <figure>
-	<img src="/images/robe_confetti_2.JPG" alt="première robe 2">
+	<img src="images/robe_confetti_2.JPG" alt="première robe 2">
 </figure>
 
 Ce test est plus que conclulant ! Si je ne l'ai pas encore refait, c'est parce que j'ai fait des modifications que je n'ai pas reporté sur mes calques du patron.<br>
@@ -42,7 +42,7 @@ Ce test est plus que conclulant ! Si je ne l'ai pas encore refait, c'est parce q
 Et voila, cette robe est géniale, confortable et superbe :)<br>
 Et en plus elle tourne !!!
 <figure>
-	<img src="/images/robe_confetti_3.JPG" alt="première robe 3">
+	<img src="images/robe_confetti_3.JPG" alt="première robe 3">
 </figure>
 
 PS : Cette robe a été cousue en novembre, photographiée en février par 4°C (c'etait frisquet), et à l'honneur pour mon premier article couture fin juin. Cette robe aura traversé l'année !

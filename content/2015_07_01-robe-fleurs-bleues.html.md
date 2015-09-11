@@ -15,7 +15,7 @@ Lang: fr
 - 1m de passepoil bleu marine. <br>
 
 <figure>
-	<img src="/images/robe_fleur_bleue_2.JPG" alt="robe fleur bleue 1">
+	<img src="images/robe_fleur_bleue_2.JPG" alt="robe fleur bleue 1">
 </figure>
 J'ai acheté ce patron pour coudre une robe d'été. Une vraie robe d'été. 
 Pour l'instant, je n'en avais pas tant que ça, j'ai passé presque toute ma vie dans l'Ouest (de la France), et plus particulièrement mes étés en Bretagne, et là-bas, il y a de l'air (comme on dit), donc je n'avais pas spécialement besoin de tenues pour des chaleurs torrides. Mais je me suis déportée vers l'Est (de la France toujours) pour mes études, et croyez-moi, je prends tout à fait conscience de ce qu'est : le climat continental ! C'est plutôt simple en fait, froid l'hiver (vraiment froid), chaud l'été (vraiment chaud), et les saisons intermédiaires, c'est mitigé, disons, un peu humide, un peu venteux, et selon les jours il fait chaud ou froid. 
@@ -24,10 +24,10 @@ Donc, pour l'été, je manquais de *sundresses* (robes du soleil, ça fait vraim
 C'est donc dans cette optique que j'ai acheté le patron de la [centaurée](http://boutique.deer-and-doe.fr/robe-centauree.html). 
 
 <figure>
-	<img src="/images/robe_fleur_bleue_floue.JPG" alt="robe fleur bleue 2">
+	<img src="images/robe_fleur_bleue_floue.JPG" alt="robe fleur bleue 2">
 </figure>
 <figure>
-	<img src="/images/robe_fleur_bleue_floue_non.JPG" alt="robe fleur bleue 3">
+	<img src="images/robe_fleur_bleue_floue_non.JPG" alt="robe fleur bleue 3">
 	<figcaption> Un superbe tissu :) </figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Le rouleau était tout en dessous de tous plein d'autres rouleaux, donc pour avo
 La seule chose que j'ai à dire est que pour un modèle vraiment d'été, j'aurais peut-être pu choisir un tissu un peu plus fin (un peu moins toile).
 
 <figure>
-	<img src="/images/robe_fleur_bleue_tissu.JPG" alt="robe fleur bleue tissu">
+	<img src="images/robe_fleur_bleue_tissu.JPG" alt="robe fleur bleue tissu">
 </figure>
 
 Maintenant parlons de cette robe. 
@@ -54,7 +54,7 @@ Les modifications que j'ai apportées sont :<br>
 - l'ajout d'un passepoil à la taille (une première pour moi !)<br>
 - l'ajout de poches prises dans la couture (celle de la jupe [Chardon de Deer&Doe](http://boutique.deer-and-doe.fr/jupe-chardon.html)).
 <figure>
-	<img src="/images/robe_fleur_bleue_poches.JPG" alt="robe fleur bleue poche">
+	<img src="images/robe_fleur_bleue_poches.JPG" alt="robe fleur bleue poche">
 	<figcaption> Oui, je suis super fière de mes poches :) </figcaption>
 </figure>
 
@@ -68,14 +68,14 @@ D'un point de vue de la structure du modèle, il y a un détail que j'aime parti
 Je trouve que ça rend la robe très féminine et délicate. 
 Bref j'adore :)
 <figure>
-	<img src="/images/robe_fleur_bleue_bretelles.JPG" alt="robe fleur bleue bretelle">
+	<img src="images/robe_fleur_bleue_bretelles.JPG" alt="robe fleur bleue bretelle">
 </figure>
 
 Pour conclure, c'est vraiment un chouette modèle. J'ai aimé le coudre et j'aime le porter.<br>
 *La preuve, une autre version est en cours :)*
 
 <figure>
-	<img src="/images/robe_fleur_bleue_1.JPG" alt="robe fleur bleue 4">
+	<img src="images/robe_fleur_bleue_1.JPG" alt="robe fleur bleue 4">
 	<figcaption> Ce drapeau donne un air patriotique à cette photo... un petit air de 14 juillet :) </figcaption>
 </figure>
 
