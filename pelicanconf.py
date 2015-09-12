@@ -8,7 +8,8 @@ SITEURL = 'http://localhost:8000'
 TWITTER_USERNAME = 'mllecarnot'
 
 PATH = 'content'
-STATIC_PATH = 'images'
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 TIMEZONE = 'Europe/Paris'
 
