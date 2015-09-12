@@ -8,10 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=dustri.org
-SSH_PORT=22
-SSH_USER=lleroy
-SSH_TARGET_DIR=/home/lleroy/blog
+GITHUB_PAGES_BRANCH=gh-pages
 
 
 help:
@@ -26,6 +23,7 @@ help:
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
 	@echo '   make ssh_upload                  upload the web site via SSH        '
+	@echo '   make github                      upload the web site to github pages'
 	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
 	@echo '                                                                       '
 
@@ -59,6 +57,10 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+
+github: publish
+	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	git push origin $(GITHUB_PAGES_BRANCH)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
