@@ -53,7 +53,7 @@
 
             <article>
                 <a href="../pression.html"><h3 class="article-title">Mais qu'est ce que la Pression ?</h3></a>
-<h6 class="subheader" title="2015-01-31T20:31:00">sam. 31 janvier 2015
+<h6 class="subheader" title="2015-01-31T20:31:00+01:00">sam. 31 janvier 2015
 </h6>
 
 
@@ -102,11 +102,13 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         indent = (screen.width < 768) ? "0em" : indent;
         linebreak = (screen.width < 768) ? 'true' : linebreak;
     }
-    
+
     var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
     mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
@@ -116,6 +118,7 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         "    displayAlign: '"+ align +"'," +
         "    displayIndent: '"+ indent +"'," +
         "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
         "    tex2jax: { " +
         "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
         "        displayMath: [ ['$$','$$'] ]," +
@@ -165,7 +168,7 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
 
             <article>
                 <a href="../temperature.html"><h3 class="article-title">Mais qu'est ce que la Température ?</h3></a>
-<h6 class="subheader" title="2014-11-30T13:00:00">dim. 30 novembre 2014
+<h6 class="subheader" title="2014-11-30T13:00:00+01:00">dim. 30 novembre 2014
 </h6>
 
 Translations: 
