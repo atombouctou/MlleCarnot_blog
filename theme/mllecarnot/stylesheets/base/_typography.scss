@@ -1,0 +1,17 @@
+/**
+ * Basic typography style for copy text
+ */
+body {
+  color: $text-color;
+  font: normal 125% / 1.4 $text-font-stack;
+}
+
+.header__title {
+  font: normal 150% / 1.4 $site-title-font-stack;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 0.5em;
+  padding: 0.5em 20px 0;
+  font-size: 1em;
+}

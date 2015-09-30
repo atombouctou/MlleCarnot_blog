@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the footer of the site/application.
+// -----------------------------------------------------------------------------
+
+/**
+ * Header
+ */
+.footer {
+  padding: 5px;
+  text-align: left;
+  position: relative;
+  z-index: 1;
+  background: #4C78A4;
+  color: #fff;
+}
+
+.footer h5 {
+  text-transform: uppercase;
+}

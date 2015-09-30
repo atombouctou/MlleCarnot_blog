@@ -1,5 +1,5 @@
 Title: Mais qu'est ce que la Chaleur ? (Partie I)
-Category: Mais qu'est ce que c'est ?
+Category: thermo
 Tags: chaleur, histoire
 Date: 2014-11-23
 
@@ -42,20 +42,22 @@ La masse qui "partait" était le phlogistique qui s'exprimait sous forme de chal
 Aujourd'hui, on sait que pour avoir une flamme, il faut du [comburant](https://fr.wikipedia.org/wiki/Comburant), du [combustible](https://fr.wikipedia.org/wiki/Combustible) et une source d'énergie thermique (chaleur).
 
 <figure>
-	<img src="images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu">
+	<img src="/images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu">
 	<figcaption>Triangle du feu</figcaption>
 </figure>
+
 Bon, la théorie du phlogistique s'est révélée fausse. 
 Cela a été mis en évidence par *[Antoine Laurent de Lavoisier](https://fr.wikipedia.org/wiki/Antoine_Lavoisier)* qui a montré l'implication de l'oxygène dans le processus de combustion.
+
 <figure>
-	<img src="images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze">
+	<img src="/images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze">
 	<figcaption>Antoine Lavoisier et sa femme : [Marie-Anne Pierrette Paulze](https://fr.wikipedia.org/wiki/Marie-Anne_Pierrette_Paulze)</figcaption>
 </figure>
 
 Au XVIII siècle: une nouvelle théorie est mise en place par *[Joseph Black](https://fr.wikipedia.org/wiki/Joseph_Black)* pour développer ce concept de chaleur : **[la théorie du calorique](https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_calorique)**.
 
 <figure>
-	<img src="images/Joseph_Black2.jpg" alt="Gravure de Joseph Black">
+	<img src="/images/Joseph_Black2.jpg" alt="Gravure de Joseph Black">
 	<figcaption>Joseph Black</figcaption>
 </figure>
 
@@ -66,17 +68,11 @@ Comme toutes les théories, celle-ci est mise à mal par quelque chose de plus f
 
 *Notons tout de même que la théorie du calorique (aujourd'hui complètement obsolète) a permis à Joseph Black de mettre en place des concepts de ***chaleur latente*** et de ***chaleur spécifique***. En fait aujourd'hui on parle d'"[enthalpie de changement d'état](https://fr.wikipedia.org/wiki/Enthalpie_de_changement_d%27%C3%A9tat)" et de "[capacité thermique massique](https://fr.wikipedia.org/wiki/Capacit%C3%A9_thermique_massique)". Mais ces termes sont encore employés dans certaines documentations.*
 
-
 Au XIX siècle (en 1824 précisément), **[Sadi Carnot](https://fr.wikipedia.org/wiki/Sadi_Carnot_%28physicien%29)** publie ses "*Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance*" soit les machines thermiques.
 
 <figure>
-	<img src="images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot">
+	<img src="/images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot">
 	<figcaption>Sadi Carnot</figcaption>
 </figure>
 
-
-
 C'est cet ouvrage qui fondera les bases d'une nouvelle science : **La Thermodynamique**.
-
-
-

@@ -1,5 +1,5 @@
 Title: Mais qu'est ce que un système ?
-Category: Mais qu'est ce que c'est ?
+Category: thermo
 Tags: Thermodynamique, systèmes
 Date: 2014-10-18 20:01
 Status: draft

@@ -1,5 +1,5 @@
 Title: But what is it, the pression ? 
-Category: But what is it ?
+Category: thermo
 Tags: pression, caracteristics values
 Date: 2014-10-10 20:31
 Slug: pression

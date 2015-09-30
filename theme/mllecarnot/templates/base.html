@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+
+    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" />
+    <script src="{{ SITEURL }}/theme/js/custom.modernizr.js"></script>
+
+    <!-- So Firefox can bookmark->"abo this site" -->
+    {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_ALL_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+    {% endif %}
+    {% if FEED_ATOM %}
+        <link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+    {% endif %}
+    {% if FEED_RSS %}
+        <link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_ALL_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
+    {% endif %}
+
+</head>
+
+<body>
+
+{% include "header.html" %}
+
+<main class="main clearfix" role="main">
+  {% block content %}{% endblock %}
+</main>
+
+<div class="row">
+
+    <!-- Sidebar -->
+    <!-- <footer class="footer">
+        <h5>Site</h5>
+        <ul>
+            <li><a href="{{ SITEURL }}/archives.html">Archives</a>
+            <li><a href="{{ SITEURL }}/tags.html">Tags</a>
+            {% if FEED_ALL_ATOM %}
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" rel="alternate">Flux Atom</a></li>
+            {% endif %}
+            {% if FEED_ATOM %}
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Flux Atom</a></li>
+            {% endif %}
+            {% if FEED_RSS %}
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" rel="alternate">Flux RSS</a></li>
+            {% endif %}
+            {% if FEED_ALL_RSS %}
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" rel="alternate">Flux RSS</a></li>
+            {% endif %}
+        </ul>
+
+        {% if categories %}
+        <h5>Catégories</h5>
+        <ul>
+        {% for cat, null in categories %}
+            <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if LINKS %}
+        <h5>Liens</h5>
+        <ul>
+        {% for name, link in LINKS %}
+            <li><a href="{{ link }}">{{ name }}</a></li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if SOCIAL %}
+        <h5>Social</h5>
+        <ul>
+        {% for name, link in SOCIAL %}
+            <li><a href="{{ link }}">{{ name }}</a></li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+    </footer> -->
+
+</div>

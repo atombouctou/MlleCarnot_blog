@@ -1,5 +1,5 @@
 Title: Mais qu'est ce que la Thermodynamique ?
-Category: Mais qu'est ce que c'est ?
+Category: thermo
 Tags: thermodynamique, énergie, systèmes
 Date: 2014-10-18 20:00
 Status: draft

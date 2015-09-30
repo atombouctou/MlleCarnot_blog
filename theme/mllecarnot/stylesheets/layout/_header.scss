@@ -1,0 +1,40 @@
+/**
+ * Header
+ */
+.header {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  border-top: 4px solid #4C78A4;
+  background: transparent;
+}
+
+/**
+ * Header title
+ * 1. Poor man's vertical rhythm
+ */
+.header__title {
+  margin: 0 0 20px; /* 1 */
+  position: relative;
+
+  @include respond-to('medium') {
+    margin: 0;
+  }
+
+  /**
+   * Header title link
+   */
+  a {
+    text-decoration: none;
+    color: #4C78A4;
+  }
+}
+
+.header__title:after {
+  content: "aime";
+  display: block;
+  font-size: 0.7em;
+  color: #4C78A4;
+}

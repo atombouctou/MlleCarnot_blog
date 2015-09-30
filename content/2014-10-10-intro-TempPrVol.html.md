@@ -1,5 +1,5 @@
 Title: Mais pourquoi parler précisément de la température et de la pression, et du volume aussi  ?
-Category: Mais pourquoi ? 
+Category: thermo
 Tags: température, pression, volume
 Date: 2014-10-07
 Status: draft

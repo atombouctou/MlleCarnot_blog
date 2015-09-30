@@ -1,5 +1,5 @@
 Title: Mais qu'est ce qu'un gaz parfait ?
-Category: Mais qu'est ce que c'est ?
+Category: thermo
 Tags: gaz parfaits, équation d'état
 Date: 2014-11-01 20:00
 Status: draft

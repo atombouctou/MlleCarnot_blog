@@ -1,5 +1,5 @@
 Title: Quand on parle de Volume c'est en MÈTRE CUBE!
-Category: Mais MAIS ! STOP !
+Category: thermo
 Tags: volume, unités
 Date: 2014-10-12
 Status: draft

@@ -1,5 +1,5 @@
 Title: un chataigne
-Category: première création
+Category: couture
 Tags: Deer&Doe, short, couture
 Status: draft
 

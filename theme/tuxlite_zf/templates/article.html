@@ -3,6 +3,7 @@
 {% block content %}
 <article>
     <header>
+        <img src="{{ SITEURL }}/images/{{ article.slug }}.jpg"/>
         <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
         title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h1>
     </header>

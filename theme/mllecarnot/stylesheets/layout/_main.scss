@@ -1,0 +1,63 @@
+/**
+ * Main container
+ */
+.main {
+  position: relative;
+  padding: 10px 0;
+}
+
+article {
+  display: block;
+  margin: 2em 0;
+  overflow: auto;
+}
+
+article.bordered {
+  border-top: 4px solid $secondary-color;
+}
+
+article p {
+  font-size: 0.85em;
+  padding: 20px;
+  margin-top: 0;
+}
+
+article ul {
+  font-size: 0.85em;
+  margin: 0;
+}
+
+.article-infos {
+  overflow: auto;
+  font-size: 0.8em;
+  float: right;
+}
+
+.info {
+  display: block;
+  position: relative;
+  float: left;
+  background: $main-color;
+}
+
+.info-title {
+  display: block;
+  float: left;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: $main-color;
+  background: #fff;
+  padding: 0 0 0 10px;
+  width: 100%;
+}
+
+.info a,
+.info time {
+  color: #fff;
+  text-transform: lowercase;
+  width: 100%;
+  background: $main-color;
+  padding: 0 0 0 10px;
+  line-height: 2em;
+}

@@ -1,5 +1,6 @@
 cache/
 output/
 plugins/
+node_modules/
 
 *.py[cod]
