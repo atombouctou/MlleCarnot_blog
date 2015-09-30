@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Mlle Carnot - température</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/main.css" />
+    <script src="http://mllecarnot.org/theme/js/custom.modernizr.js"></script>
+
+    <!-- So Firefox can bookmark->"abo this site" -->
+        <link href="feeds/all.atom.xml" rel="alternate" title="Mlle Carnot" type="application/atom+xml">
+        <link href="feeds/rss.xml" rel="alternate" title="Mlle Carnot" type="application/rss+xml">
+
+</head>
+
+<body>
+
+<header class="header clearfix" role="banner">
+  <h1 class="header__title">
+    <a href="/">Mlle Carnot</a>
+  </h1>
+  <nav role="navigation" class="nav">
+    <ul class="clearfix">
+        <li><a href="/couture">la couture</a></li>
+        <li><a href="/thermo">la thermo</a></li>
+    </ul>
+  </nav>
+</header>
+<main class="main clearfix" role="main">
+
+    <article class="container bordered">
+        <a href="http://mllecarnot.org/degc-vs-degf.html"><h3 class="article-title">°C vs. °F !</h3></a>
+        <p>Chez moi, en France quand on parle de température on s'exprime en degré Celsius.</p>
+<p>Mais qu'est ce que c'est les degrés Fahrenheit ?
+Et bien, c'est juste une autre échelle de température. Cette échelle est principalement utilisée aux États-Unis.</p>
+<h2>L'histoire des thermomètres</h2>
+<p>Un thermomètre est un appareil qui sert à mesurer et afficher la valeur de la température.
+Un thermomètre est généralement un tube étroit dans lequel est contenu un fluide (alcool, mercure, ...). Lorsque la température s'élève, le fluide se dilate et ainsi, on verra le niveau du fluide monter à travers la paroi du tube.
+<figure>
+    <img src="/images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit">
+    <figcaption>Thermomètre gradué en degrés Celsius et Farenheit</figcaption>
+</figure></p>
+<p>Le principe aurait été développé par le médecin <a href="https://fr.wikipedia.org/wiki/Santorio_Santorio">Sanctorius</a> au XVII siècle.
+Quelques années plus tard, cette invention fut perfectionnée en ajoutant sur le tube des graduations. (D'ailleurs le terme "<a href="https://fr.wiktionary.org/wiki/degr%C3%A9">degré</a>" et "<a href="https://fr.wiktionary.org/wiki/graduation">graduation</a>" sont d'étymologie proche).</p>
+<p>Depuis ce moment, plusieurs échelles de températures se sont succédées.</p>
+<p>La première en 1702 : le danois <a href="https://fr.wikipedia.org/wiki/Ole_Christensen_R%C3%B8mer">Rømer</a> fabriqua un thermomètre à alcool.
+Les points fixes de son échelle sont :</p>
+<ul>
+<li>le point d'ébullition de l'eau : 60 °Rømer</li>
+<li>le point de congélation de l'eau : 7,5 °Rømer</li>
+</ul>
+<p>En 1717, l'allemand <a href="https://fr.wikipedia.org/wiki/Gabriel_Fahrenheit">Fahrenheit</a> propose un nouveau thermomètre, le principe reste le même, simplement il remplace l'alcool par du mercure.
+<figure>
+    <img src="/images/GabrielFahrenheit.jpg" alt="Gabreil_Fahrenheit">
+    <figcaption><a href="https://fr.wikipedia.org/wiki/Gabriel_Fahrenheit">Gabriel Fahrenheit</a></figcaption>
+</figure></p>
+<p>Suite à cela, il propose une nouvelle échelle. Cette échelle sera largement adoptée par la communauté scientifique de l'époque.
+Il choisit pour point fixe :</p>
+<ul>
+<li>une température basse : 0°F est la température la plus basse qu'il ait pu mesurer durant l'hiver de 1708 à Danzig (soit -17,78 °C).</li>
+<li>une température haute : 100 °F est la température du sang de cheval. (environ 37 ou 38 °C).</li>
+</ul>
+<p>Avec cette échelle,</p>
+<ul>
+<li>la température de solidification de l'eau est à 32 °F.</li>
+<li>la température d'ébullition de l'eau est à 212 °F.</li>
+</ul>
+<p>En 1741, Anders Celsius, astronome et physicien suédois, propose lui aussi une échelle de température.
+<figure>
+    <img src="/images/AndersCelsius.jpg" alt="Anders_Celsius">
+    <figcaption><a href="https://fr.wikipedia.org/wiki/Anders_Celsius">Anders Celsius</a></figcaption>
+</figure></p>
+<p>Il choisit pour points fixes les températures de changements d'états de l'eau à pression atmosphérique :
+- la température basse : 0°C est la température d'ébullition de l'eau.
+- la température haute : 100 °C est la température de solidification de l'eau.</p>
+<p>Cette échelle a été inversée par ses collègues peu de temps après sa mort pour donner l'échelle de Celsius que nous connaissons aujourd'hui. Et peu à peu cette échelle fut adoptée par la communauté scientifique européenne du XVIIIème siècle.</p>
+<p>Notons, que le point remarquable entre les échelles de températures Celsius et Fahrenheit est -40. Effectivement -40 °C représente la même température que -40 °F !</p>
+<p>La conversion entre les échelles Celsius et Fahrenheit se fait telle que :</p>
+<div class="math">$$T(°C) = \frac{T(°F) - 32}{1,8}$$</div>
+<div class="math">$$T(°F) = T(°C)\cdot 1,8 + 32$$</div>
+<h2>La limite des thermomètres</h2>
+<p>Cependant les thermomètres à liquide utilisés à cette époque ont une limite importante. Quelle que soit l'échelle utilisée, lorsque le liquide arrive dans ces conditions de changement d'état (solidification ou vaporisation) cela pose un problème pour la mesure.</p>
+<p>Il était temps de présenter une échelle qui ne dépendait pas du comportement d'un fluide liquide (eau, alcool ou mercure).
+Une échelle avec un zéro absolu.</p>
+<p>Le zéro absolu est la température la plus basse qui puisse exister. Elle est théorique et inaccessible.
+Au zéro absolu il n'y a plus de mouvement de particules, donc la température est nulle (puisque représentant l'agitation des particules).</p>
+<p>Plusieurs personnes ont évoqué cette idée avant qu'elle ne soit concrétisée par William Thomson.</p>
+<p>Tout d'abord le français <a href="https://fr.wikipedia.org/wiki/Guillaume_Amontons">Guillaume Amontons</a>, remarque en 1702 qu'il existe une relation entre la pression et la température des gaz. Il est le premier à proposer l'hypothese du zéro absolu.
+<figure>
+    <img src="/images/Gas_thermometer_and_absolute_zero_fr.jpg" alt="Zéro absolu à partir de l'analyse des gaz">
+    <figcaption><a href="https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu">Zéro absolu</a> à partir de l'analyse des gaz</figcaption>
+</figure></p>
+<p>Il remarque que lorsqu'il baisse la pression de différents gaz ceux-ci baissent aussi en température. Si il prolonge asymptotiquement les droites Pression-Température qu'il a obtenues par l'expérience, elles tirent vers le même point : le zéro absolu. Sa théorie ne sera pas poursuivie faute de thermomètre performant.</p>
+<p>En 1824, lorsque Sadi Carnot sort ses <strong><em>Réflexions</em></strong> sur les machines motrices, il propose dans une de ses notes de bas de pages (d'abord négligée par les premiers commentateurs) que le rendement d'une machine thermique idéale pourrait servir de base pour une échelle de température.
+<figure>
+    <img src="/images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot">
+    <figcaption><a href="https://fr.wikipedia.org/wiki/Sadi_Carnot_%28physicien%29">Sadi Carnot</a></figcaption>
+</figure></p>
+<p>En 1848, c'est exactement cette idée là que développe William Thomson lorsqu'il propose une échelle de température absolue.
+<figure>
+    <img src="/images/WilliamThomson_LordKelvin.jpg" alt="William_Thomson(Lord_Kelvin)">
+    <figcaption><a href="https://fr.wikipedia.org/wiki/William_Thomson_%28Lord_Kelvin%29">William Thomson - Lord Kelvin</a></figcaption>
+ </figure></p>
+<p>Dans son échelle, une évolution (augmentation ou diminution) de la température mesurée correspond à une évolution équivalente de chaleur du corps étudié.
+<figure>
+    <img src="/images/Expérience_illustrant_echelle_température_absolue.png" alt="expérience echelle de temperature">
+    <figcaption><a href="http://documents.ariadacapo.net/cours/thermodynamique/chapitre_7.pdf">Expérience illustrant l'échelle de Température absolue</a></figcaption>
+</figure></p>
+<p>Le rejet étant proportionnel à la différence de température, Thomson en déduit l'existence d'un zéro absolu. Maintenant pour avoir une échelle, il faut la graduer.
+Thomson se tourne vers le thermomètre de Celsius. Il sait que le moteur de Carnot placé entre une température froide de 0 °C et une température chaude de 100 °C a un rendement de 28,8 %.
+À partir de ça, il en déduit que 0 K (qui permet au moteur de Carnot un rendement de 100 %) correspond à 273,15 °C.</p>
+<p>L'échelle de température mise en place par Thomson fut adoptée comme l'échelle de température du système international. Elle est aussi appelée l'<em>échelle thermodynamique</em>.
+Son travail révolutionna le domaine de la physique, car il permit de séparer définitivement le concept de température du comportement des fluides utilisés dans les thermomètres.</p>
+<p>Suite à la publication de son échelle, William Thomson se consacra à une carrière scientifique. Il fut sacré Lord Kelvin en 1892. Le nom de l'unité internationale de température "kelvin" est attribué officiellement en 1948.</p>
+<h5>Sources de l'article:</h5>
+<h6>Sites :</h6>
+<ul>
+<li><a href="http://documents.ariadacapo.net/cours/thermodynamique/">Cours de Thermodynamique d'Ariadacapo</a></li>
+</ul>
+<h6>Pages Wikipédia :</h6>
+<ul>
+<li><a href="https://fr.wikipedia.org/wiki/Degr%C3%A9_Celsius">Degré Celsius</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anders_Celsius">Anders Celsius</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Degr%C3%A9_Fahrenheit">Degré Fahrenheit</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Gabriel_Fahrenheit">Gabriel Fahrenheit</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Kelvin">Kelvin</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/William_Thomson_%28Lord_Kelvin%29">William Thomson</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu">Zéro absolu</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Guillaume_Amontons">Guillaume Amontons</a></li>
+</ul>
+<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width < 768) ? "left" : align;
+        indent = (screen.width < 768) ? "0em" : indent;
+        linebreak = (screen.width < 768) ? 'true' : linebreak;
+    }
+    
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script><div class="article-infos">
+  <span class="info">
+    <span class="info-title">Catégorie</span>
+    <a href="http://mllecarnot.org/couture/">couture</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Mots clés</span>
+      <a href="http://mllecarnot.org/tag/temperature/">température</a>
+      <a href="http://mllecarnot.org/tag/thermometre/">thermomètre</a>
+      <a href="http://mllecarnot.org/tag/degres/">degrés</a>
+      <a href="http://mllecarnot.org/tag/celsius/">Celsius</a>
+      <a href="http://mllecarnot.org/tag/fahrenheit/">Fahrenheit</a>
+      <a href="http://mllecarnot.org/tag/kelvin/">Kelvin</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Date</span>
+    <time datetime="2014-12-27T13:00:00+01:00">Sam 27 décembre 2014</time>
+  </span>
+  <span class="info">
+    <span class="info-title">Disqus</span>
+    <a href="http://mllecarnot.org/degc-vs-degf.html#disqus_thread">réactions</a>
+  </span>
+</div>
+
+
+    </article>
+
+
+
+    <article class="container bordered">
+        <a href="http://mllecarnot.org/temperature.html"><h3 class="article-title">Mais qu'est ce que la Température ?</h3></a>
+        <p>La température est une grandeur physique mesurée à l'aide d'un thermomètre. </p>
+<p><strong>Dans la vie courante</strong> la température est liée aux sensations de chaud et de froid. Ce que l'on ressent sont les différences de températures entre notre corps et l'environnement extérieur.
+Si il y a une différence de température, alors il y a un transfert thermique. L'élément le plus chaud va se refroidir et l'élément le plus froid va se réchauffer.
+<figure>
+    <img src="/images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit">
+    <figcaption>Thermometre gradué en degrés Celsius et Farenheit</figcaption>
+</figure></p>
+<p><strong>En physique</strong>; On sait que les particules qui composent un système matériel ne sont jamais au repos. Plus elles s'agitent plus il y a de frottements entre elles plus il y a une dissipation importante d'énergie thermique.
+<figure>
+    <img src="/images/Thermally_Agitated_Molecule.gif" alt="Agitation thermique d'une protéine">
+    <figcaption>Agitation thermique d'un segment de la protéine alpha hélix (<a href="https://en.wikipedia.org/wiki/Temperature">Wikipédia</a>)</figcaption>
+</figure></p>
+<p>Ainsi la température est une grandeur physique qui caractérise cette dissipation thermique et de ce fait c'est une mesure indirecte de l'agitation moléculaire d'un système.</p><div class="article-infos">
+  <span class="info">
+    <span class="info-title">Catégorie</span>
+    <a href="http://mllecarnot.org/thermo/">thermo</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Mots clés</span>
+      <a href="http://mllecarnot.org/tag/temperature/">température</a>
+      <a href="http://mllecarnot.org/tag/grandeurs-caracteristiques/">grandeurs caractéristiques</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Date</span>
+    <time datetime="2014-11-30T13:00:00+01:00">Dim 30 novembre 2014</time>
+  </span>
+  <span class="info">
+    <span class="info-title">Disqus</span>
+    <a href="http://mllecarnot.org/temperature.html#disqus_thread">réactions</a>
+  </span>
+</div>
+
+
+Translations: 
+        <a href="http://mllecarnot.org/temperature-en.html">en</a>
+    </article>
+
+
+        <!-- /#posts-list -->
+<div class="pagination">
+
+    <a class="active" href="http://mllecarnot.org/index.html">1</a>
+
+</div>
+
+<script type="text/javascript">
+if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: 'center'," +
+        "    displayIndent: '0em'," +
+        "    showMathMenu: true," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
+        "    } " +
+        "}); ";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
+</main>
+
+<div class="row">
+
+    <!-- Sidebar -->
+    <!-- <footer class="footer">
+        <h5>Site</h5>
+        <ul>
+            <li><a href="http://mllecarnot.org/archives.html">Archives</a>
+            <li><a href="http://mllecarnot.org/tags.html">Tags</a>
+                <li><a href="http://mllecarnot.org/feeds/all.atom.xml" rel="alternate">Flux Atom</a></li>
+                <li><a href="http://mllecarnot.org/feeds/rss.xml" rel="alternate">Flux RSS</a></li>
+        </ul>
+
+        <h5>Catégories</h5>
+        <ul>
+            <li><a href="http://mllecarnot.org/couture/">Couture</a></li>
+            <li><a href="http://mllecarnot.org/thermo/">thermo</a></li>
+        </ul>
+
+        <h5>Liens</h5>
+        <ul>
+            <li><a href="http://decoudvite.com">À l'attaque du découd-vite</a></li>
+            <li><a href="http://pachi-pachi.fr/">The Wearability Project</a></li>
+            <li><a href="http://www.oiseaubotte.com/">L'oiseau botté</a></li>
+            <li><a href="https://www.youtube.com/user/epenser1">E-penser</a></li>
+        </ul>
+
+    </footer> -->
+
+</div>

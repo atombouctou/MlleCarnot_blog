@@ -6,86 +6,63 @@
 
     <title>Mais qu'est ce que la Pression ?</title>
 
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/normalize.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/foundation.min.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/style.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/pygments.css" />	
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/main.css" />
     <script src="http://mllecarnot.org/theme/js/custom.modernizr.js"></script>
 
     <!-- So Firefox can bookmark->"abo this site" -->
-        <link href="feeds/all.atom.xml" rel="alternate" title="MlleCarnot" type="application/atom+xml">
-        <link href="feeds/rss.xml" rel="alternate" title="MlleCarnot" type="application/rss+xml">
+        <link href="feeds/all.atom.xml" rel="alternate" title="Mlle Carnot" type="application/atom+xml">
+        <link href="feeds/rss.xml" rel="alternate" title="Mlle Carnot" type="application/rss+xml">
 
 </head>
 
 <body>
 
-<!-- Nav Bar -->
-<nav>
-<div class="top-bar">
-<div class="row">
-    <div class="large-9 large-centered columns">
-	    <h1><a href="http://mllecarnot.org">MlleCarnot</a></h1>
-    </div>
-</div>
-</div>
-
-<!-- Show menu items and pages -->
-<div class="row">
-<div class="large-9 columns">
-    <ul class="button-group navigation">
-
-            <li><a href="http://mllecarnot.org/pages/a-propos.html" class="button secondary small">À propos</a></li>
+<header class="header clearfix" role="banner">
+  <h1 class="header__title">
+    <a href="/">Mlle Carnot</a>
+  </h1>
+  <nav role="navigation" class="nav">
+    <ul class="clearfix">
+        <li><a href="/couture">la couture</a></li>
+        <li><a href="/thermo">la thermo</a></li>
     </ul>
-</div>
-</div>
-</nav>
-<!-- End Nav -->
-
-
-<!-- Main Page Content and Sidebar -->
-<div class="row">
-
-    <!-- Main Blog Content -->
-    <div class="large-9 columns">
-<article>
+  </nav>
+</header>
+<main class="main clearfix" role="main">
+<article class="container">
     <header>
         <h1 class="article-title"><a href="http://mllecarnot.org/pression.html" rel="bookmark"
         title="Permalink to Mais qu'est ce que la Pression ?">Mais qu'est ce que la Pression ?</a></h1>
     </header>
-
-<h6 class="subheader" title="2015-01-31T20:31:00+01:00">sam. 31 janvier 2015
-</h6>
-
-
-    <p>On peut voir la pression comme une force rapportée à la surface sur laquelle elle s'applique . 
+    <div class="content">
+        <p>On peut voir la pression comme une force rapportée à la surface sur laquelle elle s'applique .
 </p>
 <div class="math">$$[Pa] = [\frac{N}{m²}]$$</div>
-<p>On a tous entendu parler de la pression atmosphérique, c'est la  force qu'applique l'air (de l'atmosphère) sur nous et sur toute la surface de la Terre. 
-Elle est égale, lorsque l'on est au niveau de la mer à environ : 
-1013,25 hPA soit 1,01325. 10⁵ Pa ou 1 atm (= atmosphère) ou encore environ 1 bar (= 10⁵ Pa). 
+<p>On a tous entendu parler de la pression atmosphérique, c'est la  force qu'applique l'air (de l'atmosphère) sur nous et sur toute la surface de la Terre.
+Elle est égale, lorsque l'on est au niveau de la mer à environ :
+1013,25 hPA soit 1,01325. 10⁵ Pa ou 1 atm (= atmosphère) ou encore environ 1 bar (= 10⁵ Pa).
 <figure>
-    <img src="images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique">
+    <img src="/images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique">
     <figcaption>La terre et le détail des couches constituant l'atmosphère (Crédits : <a href="http://media4.obspm.fr/public/AMC/credit_asm.html">Astrophysique mesures</a>)</figcaption>
 </figure></p>
 <!--(Je me permets de faire une petite parenthèse;
- En faisant mes recherches sur la pression atmosphérique, je suis tombée sur cette question : 
+ En faisant mes recherches sur la pression atmosphérique, je suis tombée sur cette question :
  Mais comment l'air/l'atmosphère terrestre reste il autour de la Terre ?
  Et là, j'ai trouvé que les choses étaient plutôt bien faites : L'atmosphère reste autour de la terre parce qu'elle est attirée et maitenue par celle-ci, plus précisément par la gravité terrestre. Et ainsi l'atmosphère peut imposer la pression atmosphérique sur la Terre.)
 
 **Revenons à la Pression**
 <br>-->
 
-<p><strong>Mais attention</strong>, vous pouvez entendre parler de Pression absolue ou de Pression relative. 
+<p><strong>Mais attention</strong>, vous pouvez entendre parler de Pression absolue ou de Pression relative.
 En thermodynamique et globalement dans toute la physique on utilise toujours la Pression absolue !</p>
 <p>Mais c'est quoi la différence entre pression absolue et pression relative ?</p>
 <ul>
 <li><strong>La pression absolue</strong> : c'est la pression mesurée par rapport au vide.</li>
 <li><strong>La pression relative</strong> : c'est la pression mesurée par rapport à la pression atmosphérique.</li>
 </ul>
-<p><br><br></p>
 <p>(PS : Bonne année 2015 !)</p>
-<p><br><br></p>
 <h5>Sources de l'article, et sources pour plus d'explications :</h5>
 <h6>Pages Wikipédia :</h6>
 <ul>
@@ -103,13 +80,11 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         indent = (screen.width < 768) ? "0em" : indent;
         linebreak = (screen.width < 768) ? 'true' : linebreak;
     }
-
+    
     var mathjaxscript = document.createElement('script');
-    var location_protocol = (false) ? 'https' : document.location.protocol;
-    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
     mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
@@ -119,7 +94,6 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         "    displayAlign: '"+ align +"'," +
         "    displayIndent: '"+ indent +"'," +
         "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
         "    tex2jax: { " +
         "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
         "        displayMath: [ ['$$','$$'] ]," +
@@ -150,17 +124,31 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 </script>
-<p class="subheader">Category: <a href="http://mllecarnot.org/category/mais-quest-ce-que-cest.html">Mais qu'est ce que c'est ?</a>
+    </div>
+    <footer>
+<div class="article-infos">
+  <span class="info">
+    <span class="info-title">Catégorie</span>
+    <a href="http://mllecarnot.org/thermo/">thermo</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Mots clés</span>
+      <a href="http://mllecarnot.org/tag/pression/">pression</a>
+      <a href="http://mllecarnot.org/tag/grandeurs-caracteristiques/">grandeurs caractéristiques</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Date</span>
+    <time datetime="2015-01-31T20:31:00+01:00">Sam 31 janvier 2015</time>
+  </span>
+  <span class="info">
+    <span class="info-title">Disqus</span>
+    <a href="http://mllecarnot.org/pression.html#disqus_thread">réactions</a>
+  </span>
+</div>
 
-    Tagged: 
-    <a href="http://mllecarnot.org/tag/pression.html">pression </a>
-    <a href="http://mllecarnot.org/tag/grandeurs-caracteristiques.html">grandeurs caractéristiques </a>
-</p>
 
 
-
-
-	<h4>Comments</h4>
+        <h4>Commentaires</h4>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         var disqus_shortname = 'mllecarnot'
@@ -174,53 +162,36 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="mllecarnot">Partager sur Twitter !</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    </footer>
 </article>
-    </div>
-    <!-- End Main Content -->
+</main>
+
+<div class="row">
 
     <!-- Sidebar -->
-    <aside class="large-3 columns">
-        <h5 class="sidebar-title">Site</h5>
-        <ul class="side-nav">
+    <!-- <footer class="footer">
+        <h5>Site</h5>
+        <ul>
             <li><a href="http://mllecarnot.org/archives.html">Archives</a>
             <li><a href="http://mllecarnot.org/tags.html">Tags</a>
-
-
                 <li><a href="http://mllecarnot.org/feeds/all.atom.xml" rel="alternate">Flux Atom</a></li>
                 <li><a href="http://mllecarnot.org/feeds/rss.xml" rel="alternate">Flux RSS</a></li>
         </ul>
 
-		
-        <h5 class="sidebar-title">Catégories</h5>
-        <ul class="side-nav">
-            <li><a href="http://mllecarnot.org/category/couture.html">Couture</a></li>
-            <li><a href="http://mllecarnot.org/category/mais-quest-ce-que-cest.html">Mais qu'est ce que c'est ?</a></li>
-   
+        <h5>Catégories</h5>
+        <ul>
+            <li><a href="http://mllecarnot.org/couture/">Couture</a></li>
+            <li><a href="http://mllecarnot.org/thermo/">thermo</a></li>
         </ul>
 
-        <h5 class="sidebar-title">Liens</h5>
-        <ul class="side-nav">
+        <h5>Liens</h5>
+        <ul>
             <li><a href="http://decoudvite.com">À l'attaque du découd-vite</a></li>
             <li><a href="http://pachi-pachi.fr/">The Wearability Project</a></li>
             <li><a href="http://www.oiseaubotte.com/">L'oiseau botté</a></li>
             <li><a href="https://www.youtube.com/user/epenser1">E-penser</a></li>
         </ul>
-		
 
-    </aside> <!-- End Sidebar -->
+    </footer> -->
 
-</div> <!-- End Main Content and Sidebar -->
-
-
-<!-- Footer -->
-<footer class="row">
-    <div class="large-12 columns">
-        <hr />
-        <div class="row">
-            <div class="large-6 columns">
-                <p>MlleCarnot by Mlle Carnot</p>
-            </div>
-            </div>
-    </div>
-</footer>
+</div>

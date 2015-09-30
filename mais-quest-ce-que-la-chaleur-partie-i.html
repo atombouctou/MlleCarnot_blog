@@ -6,59 +6,38 @@
 
     <title>Mais qu'est ce que la Chaleur ? (Partie I)</title>
 
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/normalize.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/foundation.min.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/style.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/pygments.css" />	
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/main.css" />
     <script src="http://mllecarnot.org/theme/js/custom.modernizr.js"></script>
 
     <!-- So Firefox can bookmark->"abo this site" -->
-        <link href="feeds/all.atom.xml" rel="alternate" title="MlleCarnot" type="application/atom+xml">
-        <link href="feeds/rss.xml" rel="alternate" title="MlleCarnot" type="application/rss+xml">
+        <link href="feeds/all.atom.xml" rel="alternate" title="Mlle Carnot" type="application/atom+xml">
+        <link href="feeds/rss.xml" rel="alternate" title="Mlle Carnot" type="application/rss+xml">
 
 </head>
 
 <body>
 
-<!-- Nav Bar -->
-<nav>
-<div class="top-bar">
-<div class="row">
-    <div class="large-9 large-centered columns">
-	    <h1><a href="http://mllecarnot.org">MlleCarnot</a></h1>
-    </div>
-</div>
-</div>
-
-<!-- Show menu items and pages -->
-<div class="row">
-<div class="large-9 columns">
-    <ul class="button-group navigation">
-
-            <li><a href="http://mllecarnot.org/pages/a-propos.html" class="button secondary small">À propos</a></li>
+<header class="header clearfix" role="banner">
+  <h1 class="header__title">
+    <a href="/">Mlle Carnot</a>
+  </h1>
+  <nav role="navigation" class="nav">
+    <ul class="clearfix">
+        <li><a href="/couture">la couture</a></li>
+        <li><a href="/thermo">la thermo</a></li>
     </ul>
-</div>
-</div>
-</nav>
-<!-- End Nav -->
-
-
-<!-- Main Page Content and Sidebar -->
-<div class="row">
-
-    <!-- Main Blog Content -->
-    <div class="large-9 columns">
-<article>
+  </nav>
+</header>
+<main class="main clearfix" role="main">
+<article class="container">
     <header>
         <h1 class="article-title"><a href="http://mllecarnot.org/mais-quest-ce-que-la-chaleur-partie-i.html" rel="bookmark"
         title="Permalink to Mais qu'est ce que la Chaleur ? (Partie I)">Mais qu'est ce que la Chaleur ? (Partie I)</a></h1>
     </header>
-
-<h6 class="subheader" title="2014-11-23T00:00:00+01:00">dim. 23 novembre 2014
-</h6>
-
-
-    <h2>Partie I : Petite histoire de la chaleur</h2>
+    <div class="content">
+        <h2>Partie I : Petite histoire de la chaleur</h2>
 <p>Dans le <a href="http://www.larousse.fr/dictionnaires/francais/chaleur/14479">dictionnaire</a> il est écrit : </p>
 <blockquote>
 <p>"Chaleur" : nf : Qualité de ce qui est chaud.</p>
@@ -90,19 +69,20 @@ La masse qui "partait" était le phlogistique qui s'exprimait sous forme de chal
 <strong><em>Or tout ça est lié !</em></strong>
 Aujourd'hui, on sait que pour avoir une flamme, il faut du <a href="https://fr.wikipedia.org/wiki/Comburant">comburant</a>, du <a href="https://fr.wikipedia.org/wiki/Combustible">combustible</a> et une source d'énergie thermique (chaleur).</p>
 <figure>
-    <img src="images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu">
+    <img src="/images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu">
     <figcaption>Triangle du feu</figcaption>
 </figure>
 
 <p>Bon, la théorie du phlogistique s'est révélée fausse. 
-Cela a été mis en évidence par <em><a href="https://fr.wikipedia.org/wiki/Antoine_Lavoisier">Antoine Laurent de Lavoisier</a></em> qui a montré l'implication de l'oxygène dans le processus de combustion.
+Cela a été mis en évidence par <em><a href="https://fr.wikipedia.org/wiki/Antoine_Lavoisier">Antoine Laurent de Lavoisier</a></em> qui a montré l'implication de l'oxygène dans le processus de combustion.</p>
 <figure>
-    <img src="images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze">
-    <figcaption>Antoine Lavoisier et sa femme : <a href="https://fr.wikipedia.org/wiki/Marie-Anne_Pierrette_Paulze">Marie-Anne Pierrette Paulze</a></figcaption>
-</figure></p>
+    <img src="/images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze">
+    <figcaption>Antoine Lavoisier et sa femme : [Marie-Anne Pierrette Paulze](https://fr.wikipedia.org/wiki/Marie-Anne_Pierrette_Paulze)</figcaption>
+</figure>
+
 <p>Au XVIII siècle: une nouvelle théorie est mise en place par <em><a href="https://fr.wikipedia.org/wiki/Joseph_Black">Joseph Black</a></em> pour développer ce concept de chaleur : <strong><a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_calorique">la théorie du calorique</a></strong>.</p>
 <figure>
-    <img src="images/Joseph_Black2.jpg" alt="Gravure de Joseph Black">
+    <img src="/images/Joseph_Black2.jpg" alt="Gravure de Joseph Black">
     <figcaption>Joseph Black</figcaption>
 </figure>
 
@@ -112,22 +92,36 @@ Cela a été mis en évidence par <em><a href="https://fr.wikipedia.org/wiki/Ant
 <p><em>Notons tout de même que la théorie du calorique (aujourd'hui complètement obsolète) a permis à Joseph Black de mettre en place des concepts de <strong><em>chaleur latente</em></strong> et de <strong><em>chaleur spécifique</em></strong>. En fait aujourd'hui on parle d'"<a href="https://fr.wikipedia.org/wiki/Enthalpie_de_changement_d%27%C3%A9tat">enthalpie de changement d'état</a>" et de "<a href="https://fr.wikipedia.org/wiki/Capacit%C3%A9_thermique_massique">capacité thermique massique</a>". Mais ces termes sont encore employés dans certaines documentations.</em></p>
 <p>Au XIX siècle (en 1824 précisément), <strong><a href="https://fr.wikipedia.org/wiki/Sadi_Carnot_%28physicien%29">Sadi Carnot</a></strong> publie ses "<em>Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance</em>" soit les machines thermiques.</p>
 <figure>
-    <img src="images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot">
+    <img src="/images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot">
     <figcaption>Sadi Carnot</figcaption>
 </figure>
 
 <p>C'est cet ouvrage qui fondera les bases d'une nouvelle science : <strong>La Thermodynamique</strong>.</p>
-<p class="subheader">Category: <a href="http://mllecarnot.org/category/mais-quest-ce-que-cest.html">Mais qu'est ce que c'est ?</a>
+    </div>
+    <footer>
+<div class="article-infos">
+  <span class="info">
+    <span class="info-title">Catégorie</span>
+    <a href="http://mllecarnot.org/thermo/">thermo</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Mots clés</span>
+      <a href="http://mllecarnot.org/tag/chaleur/">chaleur</a>
+      <a href="http://mllecarnot.org/tag/histoire/">histoire</a>
+  </span>
+  <span class="info">
+    <span class="info-title">Date</span>
+    <time datetime="2014-11-23T00:00:00+01:00">Dim 23 novembre 2014</time>
+  </span>
+  <span class="info">
+    <span class="info-title">Disqus</span>
+    <a href="http://mllecarnot.org/mais-quest-ce-que-la-chaleur-partie-i.html#disqus_thread">réactions</a>
+  </span>
+</div>
 
-    Tagged: 
-    <a href="http://mllecarnot.org/tag/chaleur.html">chaleur </a>
-    <a href="http://mllecarnot.org/tag/histoire.html">histoire </a>
-</p>
 
 
-
-
-	<h4>Comments</h4>
+        <h4>Commentaires</h4>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         var disqus_shortname = 'mllecarnot'
@@ -141,53 +135,36 @@ Cela a été mis en évidence par <em><a href="https://fr.wikipedia.org/wiki/Ant
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="mllecarnot">Partager sur Twitter !</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    </footer>
 </article>
-    </div>
-    <!-- End Main Content -->
+</main>
+
+<div class="row">
 
     <!-- Sidebar -->
-    <aside class="large-3 columns">
-        <h5 class="sidebar-title">Site</h5>
-        <ul class="side-nav">
+    <!-- <footer class="footer">
+        <h5>Site</h5>
+        <ul>
             <li><a href="http://mllecarnot.org/archives.html">Archives</a>
             <li><a href="http://mllecarnot.org/tags.html">Tags</a>
-
-
                 <li><a href="http://mllecarnot.org/feeds/all.atom.xml" rel="alternate">Flux Atom</a></li>
                 <li><a href="http://mllecarnot.org/feeds/rss.xml" rel="alternate">Flux RSS</a></li>
         </ul>
 
-		
-        <h5 class="sidebar-title">Catégories</h5>
-        <ul class="side-nav">
-            <li><a href="http://mllecarnot.org/category/couture.html">Couture</a></li>
-            <li><a href="http://mllecarnot.org/category/mais-quest-ce-que-cest.html">Mais qu'est ce que c'est ?</a></li>
-   
+        <h5>Catégories</h5>
+        <ul>
+            <li><a href="http://mllecarnot.org/couture/">Couture</a></li>
+            <li><a href="http://mllecarnot.org/thermo/">thermo</a></li>
         </ul>
 
-        <h5 class="sidebar-title">Liens</h5>
-        <ul class="side-nav">
+        <h5>Liens</h5>
+        <ul>
             <li><a href="http://decoudvite.com">À l'attaque du découd-vite</a></li>
             <li><a href="http://pachi-pachi.fr/">The Wearability Project</a></li>
             <li><a href="http://www.oiseaubotte.com/">L'oiseau botté</a></li>
             <li><a href="https://www.youtube.com/user/epenser1">E-penser</a></li>
         </ul>
-		
 
-    </aside> <!-- End Sidebar -->
+    </footer> -->
 
-</div> <!-- End Main Content and Sidebar -->
-
-
-<!-- Footer -->
-<footer class="row">
-    <div class="large-12 columns">
-        <hr />
-        <div class="row">
-            <div class="large-6 columns">
-                <p>MlleCarnot by Mlle Carnot</p>
-            </div>
-            </div>
-    </div>
-</footer>
+</div>

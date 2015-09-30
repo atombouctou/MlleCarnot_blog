@@ -4,139 +4,105 @@
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
 
-    <title>MlleCarnot</title>
+    <title>Mlle Carnot</title>
 
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/normalize.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/foundation.min.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/style.css" />
-    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/pygments.css" />	
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="http://mllecarnot.org/theme/css/main.css" />
     <script src="http://mllecarnot.org/theme/js/custom.modernizr.js"></script>
 
     <!-- So Firefox can bookmark->"abo this site" -->
-        <link href="feeds/all.atom.xml" rel="alternate" title="MlleCarnot" type="application/atom+xml">
-        <link href="feeds/rss.xml" rel="alternate" title="MlleCarnot" type="application/rss+xml">
+        <link href="feeds/all.atom.xml" rel="alternate" title="Mlle Carnot" type="application/atom+xml">
+        <link href="feeds/rss.xml" rel="alternate" title="Mlle Carnot" type="application/rss+xml">
 
 </head>
 
 <body>
 
-<!-- Nav Bar -->
-<nav>
-<div class="top-bar">
-<div class="row">
-    <div class="large-9 large-centered columns">
-	    <h1><a href="http://mllecarnot.org">MlleCarnot</a></h1>
-    </div>
-</div>
-</div>
-
-<!-- Show menu items and pages -->
-<div class="row">
-<div class="large-9 columns">
-    <ul class="button-group navigation">
-
-            <li><a href="http://mllecarnot.org/pages/a-propos.html" class="button secondary small">À propos</a></li>
+<header class="header clearfix" role="banner">
+  <h1 class="header__title">
+    <a href="/">Mlle Carnot</a>
+  </h1>
+  <nav role="navigation" class="nav">
+    <ul class="clearfix">
+        <li><a href="/couture">la couture</a></li>
+        <li><a href="/thermo">la thermo</a></li>
     </ul>
-</div>
-</div>
-</nav>
-<!-- End Nav -->
-
-
-<!-- Main Page Content and Sidebar -->
-<div class="row">
-
-    <!-- Main Blog Content -->
-    <div class="large-9 columns">
+  </nav>
+</header>
+<main class="main clearfix" role="main">
 
 <h3>Archives</h3>
 
 <table class="table-archive">
     <tbody>
         <tr>
-        <td>jeu. 27 août 2015</td>
+        <td>Jeu 27 août 2015</td>
         <td><a href='robe-ikat.html'>La robe Ikat (ou la robe de Saint Malo)</a></td>
         </tr>
         <tr>
-        <td>jeu. 27 août 2015</td>
+        <td>Jeu 27 août 2015</td>
         <td><a href='robe-madras.html'>La robe madras</a></td>
         </tr>
         <tr>
-        <td>mer. 01 juillet 2015</td>
+        <td>Mer 01 juillet 2015</td>
         <td><a href='robe-fleur-bleue.html'>La robe fleur bleue</a></td>
         </tr>
         <tr>
-        <td>mar. 30 juin 2015</td>
+        <td>Mar 30 juin 2015</td>
         <td><a href='robe-grecque.html'>Ma robe grecque</a></td>
         </tr>
         <tr>
-        <td>mar. 30 juin 2015</td>
+        <td>Mar 30 juin 2015</td>
         <td><a href='premiere-robe.html'>Ma première robe</a></td>
         </tr>
         <tr>
-        <td>sam. 31 janvier 2015</td>
+        <td>Sam 31 janvier 2015</td>
         <td><a href='pression.html'>Mais qu'est ce que la Pression ?</a></td>
         </tr>
         <tr>
-        <td>sam. 27 décembre 2014</td>
+        <td>Sam 27 décembre 2014</td>
         <td><a href='degc-vs-degf.html'>°C vs. °F !</a></td>
         </tr>
         <tr>
-        <td>dim. 30 novembre 2014</td>
+        <td>Dim 30 novembre 2014</td>
         <td><a href='temperature.html'>Mais qu'est ce que la Température ?</a></td>
         </tr>
         <tr>
-        <td>dim. 23 novembre 2014</td>
+        <td>Dim 23 novembre 2014</td>
         <td><a href='mais-quest-ce-que-la-chaleur-partie-i.html'>Mais qu'est ce que la Chaleur ? (Partie I)</a></td>
         </tr>
     </tbody>
 </table>
 
-    </div>
-    <!-- End Main Content -->
+</main>
+
+<div class="row">
 
     <!-- Sidebar -->
-    <aside class="large-3 columns">
-        <h5 class="sidebar-title">Site</h5>
-        <ul class="side-nav">
+    <!-- <footer class="footer">
+        <h5>Site</h5>
+        <ul>
             <li><a href="http://mllecarnot.org/archives.html">Archives</a>
             <li><a href="http://mllecarnot.org/tags.html">Tags</a>
-
-
                 <li><a href="http://mllecarnot.org/feeds/all.atom.xml" rel="alternate">Flux Atom</a></li>
                 <li><a href="http://mllecarnot.org/feeds/rss.xml" rel="alternate">Flux RSS</a></li>
         </ul>
 
-		
-        <h5 class="sidebar-title">Catégories</h5>
-        <ul class="side-nav">
-            <li><a href="http://mllecarnot.org/category/couture.html">Couture</a></li>
-            <li><a href="http://mllecarnot.org/category/mais-quest-ce-que-cest.html">Mais qu'est ce que c'est ?</a></li>
-   
+        <h5>Catégories</h5>
+        <ul>
+            <li><a href="http://mllecarnot.org/couture/">Couture</a></li>
+            <li><a href="http://mllecarnot.org/thermo/">thermo</a></li>
         </ul>
 
-        <h5 class="sidebar-title">Liens</h5>
-        <ul class="side-nav">
+        <h5>Liens</h5>
+        <ul>
             <li><a href="http://decoudvite.com">À l'attaque du découd-vite</a></li>
             <li><a href="http://pachi-pachi.fr/">The Wearability Project</a></li>
             <li><a href="http://www.oiseaubotte.com/">L'oiseau botté</a></li>
             <li><a href="https://www.youtube.com/user/epenser1">E-penser</a></li>
         </ul>
-		
 
-    </aside> <!-- End Sidebar -->
+    </footer> -->
 
-</div> <!-- End Main Content and Sidebar -->
-
-
-<!-- Footer -->
-<footer class="row">
-    <div class="large-12 columns">
-        <hr />
-        <div class="row">
-            <div class="large-6 columns">
-                <p>MlleCarnot by Mlle Carnot</p>
-            </div>
-            </div>
-    </div>
-</footer>
+</div>
