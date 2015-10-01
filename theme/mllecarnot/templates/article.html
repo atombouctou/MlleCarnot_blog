@@ -16,7 +16,6 @@
         {% include 'article_infos_bottom.html' %}
 
         {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
-        <h4>Commentaires</h4>
         {% include 'disqus_script.html' %}
         {% endif %}
     </footer>
