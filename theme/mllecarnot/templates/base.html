@@ -7,9 +7,7 @@
     <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 
     <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" />
-    <script src="{{ SITEURL }}/theme/js/custom.modernizr.js"></script>
 
     <!-- So Firefox can bookmark->"abo this site" -->
     {% if FEED_ALL_ATOM %}
@@ -24,7 +22,6 @@
     {% if FEED_ALL_RSS %}
         <link href="{{ FEED_ALL_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
     {% endif %}
-
 </head>
 
 <body>
