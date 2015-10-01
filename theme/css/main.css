@@ -631,6 +631,10 @@ article ul {
   line-height: 2em;
 }
 
+#disqus_thread {
+  margin: 20px 20px 0;
+}
+
 /**
  * Header
  */
