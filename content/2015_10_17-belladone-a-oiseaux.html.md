@@ -5,7 +5,7 @@ Date: 2015-10-28 12:00
 Slug: belladone-oiseaux
 Lang: fr
 
-**Marque et Modèle :** ["Belladone" de Deer&Doe](http://boutique.deer-and-doe.fr/robe-belladone.html) avec patte de bouttonnage deans le dos<br>
+**Marque et Modèle :** ["Belladone" de Deer&Doe](http://boutique.deer-and-doe.fr/robe-belladone.html) avec patte de bouttonnage dans le dos<br>
 **Taille :** 38 <br>
 **Métrage et Fourniture:** <br>
 - 2m (environ) d'une flanelle de coton (je pense) "fleurs et oiseaux" donnée par ma maman,<br>
@@ -52,7 +52,7 @@ Allez hop, c'est fait.
 
 Bon maintenant, il faut que je la ferme ma robe, mais ça baille dans le dos... Alors je me suis fait scotchée pour avoir une reproduction de mon buste *(note : ne pas le faire le dernier jour de l'année où il fait 30°C)*.<br>
 Je crée ma patte de boutonnage (entre les vacances avec ma maman et septembre, j'ai cousu deux chemises et deux cami, j'ai un peu moins peur des pattes de boutonnage). J'ajuste sur mon buste.
-Je vais acheter des boutons, du biais et des crochets à jupe. D'ailleurs dans la mercerie, je rencontre pour la première fois une autre couturière belfortaine, on a papoté évidemment, ça n'a pas fait avancer plus rapidement ma robe tout ça !)br>
+Je vais acheter des boutons, du biais et des crochets à jupe. D'ailleurs dans la mercerie, je rencontre pour la première fois une autre couturière belfortaine, on a papoté évidemment, ça n'a pas fait avancer plus rapidement ma robe tout ça !)<br>
 Le soir, j'ai cousu mes crochets à ma ceinture et les anneaux sur la jupe en face (c'est mon stratagème pour pour faire tenir ma jupe au buste), et j'ai fait mes 7 boutonnières (à la main ! J'ai pas tout à fait confiance en ma dextérité à dompter ma vieille machine pour réaliser des boutonnières).
 Je fini de coudre les boutons le lendemain matin ! Et ... Ouf ! Je rentre dans ma robe, elle me va, elle est belle, elle est comme je veux quoi :)
 
