@@ -83,11 +83,13 @@ daringfireball.net/projects/markdown/syntax</p>
         indent = (screen.width < 768) ? "0em" : indent;
         linebreak = (screen.width < 768) ? 'true' : linebreak;
     }
-    
+
     var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
     mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
@@ -97,6 +99,7 @@ daringfireball.net/projects/markdown/syntax</p>
         "    displayAlign: '"+ align +"'," +
         "    displayIndent: '"+ indent +"'," +
         "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
         "    tex2jax: { " +
         "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
         "        displayMath: [ ['$$','$$'] ]," +
@@ -141,7 +144,7 @@ daringfireball.net/projects/markdown/syntax</p>
   </span>
   <span class="info">
     <span class="info-title">Date</span>
-    <time datetime="2014-11-04T00:00:00+01:00">Mar 04 novembre 2014</time>
+    <time datetime="2014-11-04T00:00:00+01:00">mar. 04 novembre 2014</time>
   </span>
   <span class="info">
     <span class="info-title">Disqus</span>

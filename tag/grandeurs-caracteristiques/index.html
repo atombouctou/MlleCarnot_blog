@@ -74,11 +74,13 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         indent = (screen.width < 768) ? "0em" : indent;
         linebreak = (screen.width < 768) ? 'true' : linebreak;
     }
-    
+
     var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
     mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
@@ -88,6 +90,7 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         "    displayAlign: '"+ align +"'," +
         "    displayIndent: '"+ indent +"'," +
         "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
         "    tex2jax: { " +
         "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
         "        displayMath: [ ['$$','$$'] ]," +
@@ -129,7 +132,7 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
   </span>
   <span class="info">
     <span class="info-title">Date</span>
-    <time datetime="2015-01-31T20:31:00+01:00">Sam 31 janvier 2015</time>
+    <time datetime="2015-01-31T20:31:00+01:00">sam. 31 janvier 2015</time>
   </span>
   <span class="info">
     <span class="info-title">Disqus</span>
@@ -168,7 +171,7 @@ Si il y a une différence de température, alors il y a un transfert thermique. 
   </span>
   <span class="info">
     <span class="info-title">Date</span>
-    <time datetime="2014-11-30T13:00:00+01:00">Dim 30 novembre 2014</time>
+    <time datetime="2014-11-30T13:00:00+01:00">dim. 30 novembre 2014</time>
   </span>
   <span class="info">
     <span class="info-title">Disqus</span>
