@@ -16,14 +16,14 @@ Allez hop ! On commence la saga des robes. Celle-ci c'est la robe dite grecque,
 
 Ce tissu je l'ai vu à [tissu éco](http://www.tissu-eco.com/). Une caverne d'Ali Baba de tissu, il y a des rouleaux du sol au plafond, et cachées au milieu de tout ça, il y a des merveilles ! Donc ce tissu je l'avais vu d'abord là-bas, et j'avais été raisonnable, je m'étais retenue de l'acheter. Mais ma raison n'a pas tenu longtemps quand je l'ai recroisé 2 jours après, le dimanche matin sur le marché à 1€ le mètre. C'est bien simple, j'en ai pris 2 mètres :)
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_grecque_1.JPG" alt="robe grecque 1">
 	<figcaption>Regardez ce super tissu !</figcaption>
 </figure>
 
 Ce tissu est fin (plutôt beaucoup même par rapport aux précédents tissus que j'ai cousus), il tombait vraiment bien parce qu'ici le climat vraiment continental commence à se faire sentir. Donc j'avais envie d'une robe d'été légère. Pour le patron, j'ai choisi de coudre la "Gathered Sundress" (histoire de rester dans le thème de l'été).
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_grecque_3.JPG" alt="robe grecque 2">
 	<figcaption>Ici, on voit ces super poches !</figcaption>
 </figure>
@@ -34,7 +34,7 @@ Sur ce modèle, il y a :<br>
 - des découpes princesses, et j'aime bien cela :)<br>
 - des poches, et c'est plutôt pratique.<br>
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_grecque_4.JPG" alt="robe grecque 3">
 	<figcaption>et là, si on plisse les yeux, on voit les découpes princesses</figcaption>
 </figure>
@@ -45,7 +45,7 @@ Les modifications que j'ai réalisées sont de :<br>
 - raccourcir la jupe de 10 cm, pour qu'elle m'arrive juste au dessus des genoux.<br>
 et en plus elle tourne (un peu :))
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_grecque_2.JPG" alt="robe grecque 4">
 </figure>
 

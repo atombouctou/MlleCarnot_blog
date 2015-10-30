@@ -14,7 +14,7 @@ Lang: fr
 - 3m de biais bleu marine, <br>
 - 1m de passepoil bleu marine. <br>
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_2.JPG" alt="robe fleur bleue 1">
 </figure>
 
@@ -24,10 +24,10 @@ Pour l'instant, je n'en avais pas tant que ça, j'ai passé presque toute ma vie
 Donc, pour l'été, je manquais de *sundresses* (robes du soleil, ça fait vraiment été) :)
 C'est donc dans cette optique que j'ai acheté le patron de la [centaurée](http://boutique.deer-and-doe.fr/robe-centauree.html).
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_floue.JPG" alt="robe fleur bleue 2">
 </figure>
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_floue_non.JPG" alt="robe fleur bleue 3">
 	<figcaption> Un superbe tissu :) </figcaption>
 </figure>
@@ -42,7 +42,7 @@ Le rouleau était tout en dessous de tout plein d'autres rouleaux, donc pour avo
 
 La seule chose que j'ai à dire est que pour un modèle vraiment d'été, j'aurais peut-être pu choisir un tissu un peu plus fin (un peu moins toile).
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_tissu.JPG" alt="robe fleur bleue tissu">
 </figure>
 
@@ -54,7 +54,7 @@ Les modifications que j'ai apportées sont :<br>
 - un "redressement" du corsage. Le haut de la robe (les différentes pièces du devant assemblées et le dos) a une forme un peu trapézoïdale. J'ai l'ai essayé et j'ai ratiboisé les côtés pour quelque chose de plus "droit" et sur moi de plus ajusté (mais pas trop). *Cependant, je pense qu'il faut que je reprenne mieux que ça l'ajustement du corps de la robe, parce qu'il y a comme des plis qui se forment (on en voit un peu sur la photo ci-dessus). Sur cette version, ce n'est pas choquant parce que le motif est très chargé, mais sur la suivante qui est en cours je ne vois que ça et ça ne va pas du tout. Je vais m'aider du Sew Along présent sur le site de Deer&Doe que je n'ai pas du tout consulté pour cette version.*<br>
 - l'ajout d'un passepoil à la taille (une première pour moi !)<br>
 - l'ajout de poches prises dans la couture (celle de la jupe [Chardon de Deer&Doe](http://boutique.deer-and-doe.fr/jupe-chardon.html)).
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_poches.JPG" alt="robe fleur bleue poche">
 	<figcaption> Oui, je suis super fière de mes poches :) </figcaption>
 </figure>
@@ -68,14 +68,14 @@ Mais par contre, ça complexifie un peu les ajustements.
 D'un point de vue de la structure du modèle, il y a un détail que j'aime particulièrment : ce sont les bretelles.
 Je trouve que ça rend la robe très féminine et délicate.
 Bref j'adore :)
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_bretelles.JPG" alt="robe fleur bleue bretelle">
 </figure>
 
 Pour conclure, c'est vraiment un chouette modèle. J'ai aimé le coudre et j'aime le porter.<br>
 *La preuve, une autre version est en cours :)*
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_fleur_bleue_1.JPG" alt="robe fleur bleue 4">
 	<figcaption> Ce drapeau donne un air patriotique à cette photo... un petit air de 14 juillet :) </figcaption>
 </figure>

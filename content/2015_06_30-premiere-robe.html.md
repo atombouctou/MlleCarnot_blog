@@ -16,7 +16,7 @@ Ceci est la première robe que j'ai cousue.<br>
 C'est aussi un de mes premiers projets. J'ai commencé à coudre en allant à [La Couserie](https://www.facebook.com/lacouserie?fref=nf). La Couserie, c'est une association mulhousienne géniale qui regroupe dans un même local des machines à coudre, des bouquins de couture et patrons, et surtout des couturières/tricoteuses ultra motivées.<br>
 Donc en arrivant là-bas j'ai commencé à coudre. D'abord des shorts chataîgnes, et puis cette robe :
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_confetti_1.JPG" alt="première robe 1">
 	<figcaption>Ma première robe (surnommée la robe confettis)</figcaption>
 </figure>
@@ -25,7 +25,7 @@ Initialement, cette robe est un test. Un test pour tester la coupe, le modèle, 
 C'est une robe à découpes princesses, ce qui lui donne un très joli tombé, je trouve.<br>
 De plus, c'est un modèle entièrement doublé. J'ai doublé le corps avec du coton (pour le confort), et la jupe avec un satin pour qu'elle n'accroche pas aux collants (pour le confort également).
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_confetti_2.JPG" alt="première robe 2">
 </figure>
 
@@ -36,7 +36,7 @@ Ce test est plus que concluant ! Si je ne l'ai pas encore refait, c'est parce qu
 Et voila, cette robe est géniale, confortable et superbe :)<br>
 Et en plus elle tourne !!!
 
-<figure>
+<figure role="group">
 	<img src="/images/robe_confetti_3.JPG" alt="première robe 3">
 </figure>
 

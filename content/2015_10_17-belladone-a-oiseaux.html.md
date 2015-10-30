@@ -13,7 +13,7 @@ Lang: fr
 - Biais jaune, <br>
 - Thermocollant.<br>
 
-<figure>
+<figure role="group">
 	<img src="images/belladone-rouge.JPG" alt="Dos de la robe belladone">
 	<figcaption>Je ne peux pas vous présenter ce projet sans vous raconter son histoire :)</figcaption>
 </figure>
@@ -23,7 +23,7 @@ Je l'ai reçu à mon anniversaire l'année dernière.
 J'avais vu [cette version](http://katyandlaney.com/2013/10/14/iris-belladone/) de Katy, et je l'ai montrée à ma maman en lui disant que j'aimerais bien trouver un tissu dans cet esprit-là (genre vif avec des touches fluos et si possible d'énormes fleurs). Et elle m'a dit : " Eh mais j'ai quelque chose qui y ressemble !", et elle m'a présenté ce tissu. 
 C'était pas tout à fait le type de tissu que j'avais en tête, MAIS, ce tissu est magnifique ! Je pense que c'est une flanelle de coton (elle est super douce). Et puis plus le temps passait, plus j'aimais son imprimé. 
 
-<figure>
+<figure role="group">
 	<img src="images/belladone3.JPG" alt="Dos de la robe belladone">
 </figure>
 
@@ -35,7 +35,7 @@ Mais le buste, c'était une autre affaire, j'ai du me planter en prenant mes mes
 Mais l'idée que j'avais en tête à ce moment-là, c'était mais quand est-ce que je vais la porter ? Ce tissu est magnifique, la robe le sera certainement... Mais une tenue complète dans ce tissu c'est pas un peu trop ? 
 J'ai donc décider de trouver un stratagème pour dissocier le haut de la jupe. 
 
-<figure>
+<figure role="group">
 	<img src="images/belladone-top-dos.JPG" alt="Top belladone de face">
 	<figcaption>Une idée pour que ça rende ça :)</figcaption>
 </figure>
@@ -45,7 +45,7 @@ Bon, maintenant on se retouve la première semaine de septembre, à la fin de la
 Je décide de rajouter une sorte de basque qui sera cousue sous la ceinture. (En fait cette basque, c'est simplement les 20 (ou 25) premiers centimètres de la jupe). 
 Allez hop, c'est fait. 
 
-<figure>
+<figure role="group">
 	<img src="images/belladone-course.JPG" alt="Top belladone en courant">
 	<figcaption>C'est maintenant que commence la course</figcaption>
 </figure>
@@ -56,13 +56,13 @@ Je vais acheter des boutons, du biais et des crochets à jupe. D'ailleurs dans l
 Le soir, j'ai cousu mes crochets à ma ceinture et les anneaux sur la jupe en face (c'est mon stratagème pour pour faire tenir ma jupe au buste), et j'ai fait mes 7 boutonnières (à la main ! J'ai pas tout à fait confiance en ma dextérité à dompter ma vieille machine pour réaliser des boutonnières).
 J'ai fini de coudre les boutons le lendemain matin ! Et ... Ouf ! Je rentre dans ma robe, elle me va, elle est belle, elle est comme je veux quoi :)
 
-<figure>
+<figure role="group">
 	<img src="images/belladone2.JPG" alt="Robe belladone">
 </figure>
 
 Mais c'est pas fini, dans une heure, on prend la route pour aller au mariage, mais d'ici là il faut que je couse une cravate dans le tissu de ma robe ! (challenge accepted !) Et hop ! impression de patron de cravate ([ici](https://threadtheoryblog.wordpress.com/2015/06/12/silk-tie-sewing-tutorial/) plusieurs patrons pas mal du tout sont référencés !), découpage patron et tissu, couture ! Et hop on est parti :)
 
-<figure>
+<figure role="group">
 	<img src="images/belladone1.JPG" alt="Robe belladone">
 </figure>
 
@@ -74,7 +74,7 @@ Résumé des **modifications** apportées au patron : <br>
 - ajout d'une patte de boutonnage pour la fermeture<br>
 - couture des empiècements d'épaules au corps (pour qu'ils ne baillent pas)<br>
 
-<figure>
+<figure role="group">
 	<img src="images/belladone-top-face.JPG" alt="top belladone de face">
 </figure>
 
@@ -88,7 +88,7 @@ Je suis fière de ma robe/top, ce sont deux vêtements qui ne donnent pas la mê
 En version robe je l'ai portée depuis pour d'autres fêtes (parce que je trouvais qu'elle faisait un peu habillée tout de même), mais plus je la porte plus je me dis que je pourrais la porter dans la vie de tous les jours (je pense que je vais le faire dès la rentrée d'ailleurs). 
 La version top, elle a été portée plusieurs fois dans la vie de tous les jours comme ici avec une jupe en jean. 
 
-<figure>
+<figure role="group">
 	<img src="images/belladone-folle.JPG" alt="robe belladone en équilibre">
 	<figcaption>En cadeau, la voici en condition "réelle" de portabilité</figcaption>
 </figure>
