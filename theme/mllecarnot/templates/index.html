@@ -11,15 +11,8 @@
         {{ article.content }}{% include 'article_infos_bottom.html' %}
     </article>
 
-    {% if loop.length == 1 %}
+    {% if loop.last and (articles_page.has_previous() or articles_page.has_next()) %}
         {% include 'pagination.html' %}
-    {% endif %}
-
-    {% if loop.last %}
-        <!-- /#posts-list -->
-        {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
-            {% include 'pagination.html' %}
-        {% endif %}
     {% endif %}
 {% endfor %}
 
