@@ -4,11 +4,7 @@
 {% for article in articles_page.object_list %}
 
     <article class="container{% if not article.fabric %} bordered{% endif %}">
-        {% if article.fabric %}
-        <img class="fabric" src="{{ SITEURL }}/{{ article.fabric }}"/>
-        {% endif %}
-        <a href="{{ SITEURL }}/{{ article.url }}"><h3 class="article-title">{{ article.title }}</h3></a>
-        {{ article.content }}{% include 'article_infos_bottom.html' %}
+        {% include 'article_inner.html' %}
     </article>
 
     {% if loop.last and (articles_page.has_previous() or articles_page.has_next()) %}

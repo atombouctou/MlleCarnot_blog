@@ -1,0 +1,13 @@
+<header>
+    {% if article.fabric %}
+    <img class="fabric" src="{{ SITEURL }}/{{ article.fabric }}" alt="aperçu du tissu utilisé"/>
+    {% endif %}
+    <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+    title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h1>
+</header>
+<div class="content">
+    {{ article.content }}
+</div>
+<footer>
+    {% include 'article_infos_bottom.html' %}
+</footer>
