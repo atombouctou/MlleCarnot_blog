@@ -15,7 +15,7 @@ Lang: fr
 
 <figure>
 	<img src="images/belladone-rouge.JPG" alt="Dos de la robe belladone">
-	<figcaption> Je ne peux pas vous présenter ce projet sans vous raconter son histoire :)</figcaption>
+	<figcaption>Je ne peux pas vous présenter ce projet sans vous raconter son histoire :)</figcaption>
 </figure>
 
 Tout commence l'année dernière à mes débuts sérieux de couture. La robe belladone est un des patrons qui m'a donné envie de me lancer. 
@@ -37,7 +37,7 @@ J'ai donc décider de trouver un stratagème pour dissocier le haut de la jupe.
 
 <figure>
 	<img src="images/belladone-top-dos.JPG" alt="Top belladone de face">
-		<figcaption> Une idée pour que ça rende ça :)</figcaption>
+	<figcaption>Une idée pour que ça rende ça :)</figcaption>
 </figure>
 
 Bon, maintenant on se retouve la première semaine de septembre, à la fin de la semaine je vais à un mariage, et il me faut une robe (évidemment). Après moults réflexions et essais, je décide de reprendre cette belladone. 
@@ -60,7 +60,7 @@ Je fini de coudre les boutons le lendemain matin ! Et ... Ouf ! Je rentre dans m
 	<img src="images/belladone2.JPG" alt="Robe belladone">
 </figure>
 
-Mais c'est pas fini, dans une heure, on prend la route pour aller au mariage, mais d'ici là il faut que je couse une cravate dans le tissu de ma robe ! (challenge accepted !) Et hop ! imprission de patron de cravate ([ici](https://threadtheoryblog.wordpress.com/2015/06/12/silk-tie-sewing-tutorial/) il y a de référencer plusieurs patrons pas mal du tout !), découpage patron et tissu, couture ! Et hop on est parti :)
+Mais c'est pas fini, dans une heure, on prend la route pour aller au mariage, mais d'ici là il faut que je couse une cravate dans le tissu de ma robe ! (challenge accepted !) Et hop ! impression de patron de cravate ([ici](https://threadtheoryblog.wordpress.com/2015/06/12/silk-tie-sewing-tutorial/) plusieurs patrons pas mal du tout sont référencés !), découpage patron et tissu, couture ! Et hop on est parti :)
 
 <figure>
 	<img src="images/belladone1.JPG" alt="Robe belladone">
@@ -90,7 +90,7 @@ La version top, a elle été portée plusieurs fois dans la vie de tous les jour
 
 <figure>
 	<img src="images/belladone-folle.JPG" alt="robe belladone en équilibre">
-	<figcaption> En cadeau, la voici en condition "réelle" de portabilité</figcaption>
+	<figcaption>En cadeau, la voici en condition "réelle" de portabilité</figcaption>
 </figure>
 
 Photos prises par a5e, près de Limoges (87), dans une forêt près de Belfort (90), et dans un parc (avec des feuilles rouges) près d'Angers (49).
