@@ -77,3 +77,5 @@ En conclusion : Le fait d'avoir fait cette robe dans un tissu tout mou (coton/vi
 	<img src="/images/gif_test.gif" alt="vue des vagues contournant le fort">
 	<figcaption>Juste en souvenir, voici les vagues qui se croisent lorsque la marée monte.</figcaption>
 </figure>
+
+Photos prises par a5e sur les remparts de Saint Malo.
