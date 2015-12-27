@@ -5,7 +5,7 @@ Date: 2015-11-25 12:00
 Slug: voyage-irlande
 Lang: fr
 
-*J'ai été choquée par les évènements de Paris d'il y a 10 jours, et puis les choses ont continuées et se sont enchaînées, et j'ai enfin pris le temps de finir et de partager avec vous cet article commencé juste avant.*
+*J'ai été choquée par les évènements de Paris d'il y a 10 jours, et puis les choses ont continué et se sont enchaînées, et j'ai enfin pris le temps de finir et de partager avec vous cet article commencé juste avant.*
 
 <figure>
 	<img src="/images/bonnetBBHsecret.JPG" alt="vue du bonnet à contrejour devant le soleil couchant">
@@ -13,18 +13,18 @@ Lang: fr
 </figure>
 
 **Marque et Modèle :** ["Baa-ble Hat" de Donna Smith](http://www.ravelry.com/patterns/library/baa-ble-hat)<br>
-**Métrage et Fourniture:** <br>
+**Métrage et Fournitures:** <br>
 - 1 pelote verte un peu tweedée de couleurs orange et violette (totalement utilisée)<br>
 - 1 (et un peu plus) pelote bleue pour le ciel (reste de mon premier pull (teaser du prochain article tricot))<br>
 - 1/2 pelote de blanc (colori naturel je dirais)<br>
 - 1 tout petit peu de noir<br>
-- une paire d'aiguille en 4,5 (j'ai tout tricoté en 4,5).
+- une paire d'aiguilles en 4,5 (j'ai tout tricoté en 4,5).
 
 Ce projet tricot est ma participation au concours de Thread&Needles ayant pour thème "Au fil des voyages". Alors je vais débuter en vous présentant le voyage qui a inspiré ce projet. (Les détails sur le bonnet se trouvent à la fin).<br>
 
 <figure>
 	<img src="/images/IrelandBeauTemps.jpg" alt="Vue sur la campagne proche de Sligo">
-	<figcaption>Le paysage dans le champ derrière ma première ferme (les vaches sont en contre bas)</figcaption>
+	<figcaption>Le paysage dans le champ derrière ma première ferme (les vaches sont en contrebas)</figcaption>
 </figure>
 
 Cet été je suis allée Wwoofer en Irlande (pour améliorer mon anglais).<br>
@@ -32,11 +32,11 @@ Le [Wwoof](http://www.wwoof.ie/) (pour : World Wide Opportunities on Organic Far
 
 Ça a été pour moi une expérience géniale, j'ai pu rencontrer des vrais irlandais, mais aussi des volontaires du monde entier. J'ai été accueillie par 2 hôtes, le premier était proche de Sligo (Nord de la République d'Irlande) et à Bantry, proche de Cork (Sud de la République d'Irlande). 
 
-Je n'ai pas réellement visité l'Irlande, autrement dit je n'ai pas vu les lieux touristiques (il va falloir que j'y retourne). Mais j'ai vu les paysages alentours des fermes. 
+Je n'ai pas réellement visité l'Irlande, autrement dit je n'ai pas vu les lieux touristiques (il va falloir que j'y retourne). Mais j'ai vu les paysages aux alentours des fermes. 
 
 <figure>
 	<img src="/images/IrelandTempsMvt.JPG" alt="Vue sur la campagne proche de Sligo">
-	<figcaption>Le paysage au dessus de ma première ferme. On peut le voir ici, le paysage est "changeant" en Irlande</figcaption>
+	<figcaption>Le paysage au-dessus de ma première ferme. On peut le voir ici, le paysage est "changeant" en Irlande</figcaption>
 </figure>
 
 <figure>
@@ -47,7 +47,7 @@ Je n'ai pas réellement visité l'Irlande, autrement dit je n'ai pas vu les lieu
 J'ai eu la chance d'être avec d'autres volontaires dans les fermes. L'une était espagnole, l'autre irlandaise; et la dernière que j'ai rencontrée était canadienne. On se partage le travail, et on peut discuter comme ça le temps passe plus vite (et mon anglais s'améliore).
 
 Dans la première ferme, j'ai cotoyé des troupeaux. 
-D'abord de vaches pour qu'elles rencontrent le vétérinaire. J'avais jamais vu de vaches aussi grosses de ma vie :) elles étaient pour la plus part enceintes (ce qui explique cela). Et dans l'ensemble, elles étaient plutôt calmes. (je suis désolée je n'ai pas de photos d'elles.)
+D'abord de vaches pour qu'elles rencontrent le vétérinaire. J'avais jamais vu de vaches aussi grosses de ma vie :) elles étaient pour la plupart enceintes (ce qui explique cela). Et dans l'ensemble, elles étaient plutôt calmes. (je suis désolée je n'ai pas de photos d'elles.)
 
 <figure>
 	<img src="/images/IrelandSheep.png" alt="moutons avant la tonte">
@@ -80,9 +80,9 @@ La [tourbe](https://fr.wikipedia.org/wiki/Tourbe) c'est leur combustible, ce qui
 	<figcaption>Le champ de tourbe</figcaption>
 </figure>
 
-La tourbe est extraite des tourbières par une machine. C'est la même machine qui étend la tourbe et en fait des petits rectangles, pour qu'elle sèche. Une fois sèche d'un côté, on la retourne pour qu'elle sèche d'un autre (on peut faire ça 4 fois pour les 4 faces des rectangles). Une fois complètement sèche, on en fait des petits "tipis" pour que les petits rectangles finissent définitevement de sécher et pour que la pluie ruisselle dessus et ne les imbibe plus d'eau. Quand ils sont parfaitement secs, on les ramasse et les stocke pour l'hiver.
+La tourbe est extraite des tourbières par une machine. C'est la même machine qui étend la tourbe et en fait des petits rectangles, pour qu'elle sèche. Une fois sèche d'un côté, on la retourne pour qu'elle sèche d'un autre (on peut faire ça 4 fois pour les 4 faces des rectangles). Une fois complètement sèche, on en fait des petits "tipis" pour que les petits rectangles finissent définitivement de sécher et pour que la pluie ruisselle dessus et ne les imbibe plus d'eau. Quand ils sont parfaitement secs, on les ramasse et les stocke pour l'hiver.
 
-On retourne la tourbe avec des gants. Et malgré cela si on ne se lave pas les mains immédiatement après avoir fini, un dépôt noir sèche et il impossible de l'enlever (même avec du savon et en frottant très fort). Y'a plus qu'à attendre que la peau se renouvelle. (C'est impressionnant le pouvoir d'accroche et de pigmentation de la tourbe).
+On retourne la tourbe avec des gants. Et malgré cela si on ne se lave pas les mains immédiatement après avoir fini, un dépôt noir sèche et il est impossible de l'enlever (même avec du savon et en frottant très fort). Y'a plus qu'à attendre que la peau se renouvelle. (C'est impressionnant le pouvoir d'accroche et de pigmentation de la tourbe).
 
 <figure>
 	<img src="/images/IrelandPoppy.JPG" alt="coquelicots">
@@ -90,7 +90,7 @@ On retourne la tourbe avec des gants. Et malgré cela si on ne se lave pas les m
 </figure>
 
 Ma deuxième ferme était plutôt un jardin avec des animaux. Je veux dire par là qu'il n'y avait pas du tout de troupeau. 
-Ici on avait des tâches journalières, le matin et le soir : nourrir les 2 moutons, les cochons, les poules, les chats et le chien, ouvrir (ou fermer) aux oies et aux poules, et s'occuper du jardin. Et nous avons différentes autres missions dans la journée.
+Ici on avait des tâches journalières, le matin et le soir : nourrir les 2 moutons, les cochons, les poules, les chats et le chien, ouvrir (ou fermer) aux oies et aux poules, et s'occuper du jardin. Et nous avions différentes autres missions dans la journée.
 
 Voici tous les animaux de la ferme : 
 
@@ -128,7 +128,7 @@ Après ma rencontre avec les moutons, leur tonte dans la première ferme, j'ai a
 </div>
 
 
-Et puis revenue en France, j'ai demandé à ma mamie de m'apprendre à tricoter (jusqu'à ce moment là je ne faisait que crocheter). 
+Et puis revenue en France, j'ai demandé à ma mamie de m'apprendre à tricoter (jusqu'à ce moment là je ne faisais que crocheter). 
 Et puis j'ai fait un pull.
 Et puis ce bonnet :) Qui avec ces petits moutons me rappelle l'Irlande à chaque fois que je le mets (soit presque chaque fois que je sors). 
 
@@ -139,7 +139,7 @@ Et puis ce bonnet :) Qui avec ces petits moutons me rappelle l'Irlande à chaque
 Je l'ai réalisé durant les vacances de la Toussaint. 
 Sachant que c'est mon deuxième tricot de ma vie, c'est donc la première fois que je faisais du jacquard. Je trouve que je m'en suis pas mal sortie du tout. 
 
-Au début mes moutons (les plus gros) gondolaient un petit peu, mais ils ont trouvés leur place (à plat) lors du blocage. 
+Au début mes moutons (les plus gros) gondolaient un petit peu, mais ils ont trouvé leur place (à plat) lors du blocage. 
 
 <figure>
 	<img src="/images/bonnetBBHdosv2.JPG" alt="bonnet à moutons">
@@ -153,14 +153,14 @@ Le patron que j'ai utilisé est le ["baahble hat"](http://www.ravelry.com/patter
 </figure>
 
 Le seul changement que j'ai apporté au patron du bonnet est de commencer le ciel dès la fin de l'herbe. 
-Cela est du au fait que je n'avais plus de laine verte et qu'il devait encore y avoir 3 rangs de vert. Alors j'ai commencé le bleu. Ce qui fait que j'ai 3 laines durant le jacquard des moutons. Mais ça va je m'en suis sortie :p
+Cela est dû au fait que je n'avais plus de laine verte et qu'il devait encore y avoir 3 rangs de vert. Alors j'ai commencé le bleu. Ce qui fait que j'ai 3 laines durant le jacquard des moutons. Mais ça va je m'en suis sortie :p
 Donc si vous suivez (vraiment) le patron, normalement durant le jacquard il n'y a que deux laines qui se croisent. Donc elles s'enroulent entre elles mais ne font pas vraiment de noeuds (trois parfois ça fait des noeuds). Je pense que c'est un patron idéal pour commencer le jacquard (parole de grande débutante !).
 
 <figure>
 	<img src="/images/bonnetBBHdos2v2.JPG" alt="bonnet à moutons">
 </figure>
 
-J'ai vraiment beaucoup aimé tricoter ce bonnet. C'est une première et excellente expérience en jacquart. Je pense que je recommencerais parce que contrairement à ce que l'on dit je ne trouve pas cela très difficile. C'est simplement du jersey où il faut changer de couleur au bon moment. 
+J'ai vraiment beaucoup aimé tricoter ce bonnet. C'est une première et excellente expérience en jacquard. Je pense que je recommencerai parce que contrairement à ce que l'on dit je ne trouve pas cela très difficile. C'est simplement du jersey où il faut changer de couleur au bon moment. 
 Et puis le résultat est à la hauteur ! Je suis super fière de mon bonnet et je le suis encore plus quand les gens sont étonnés que ce soit moi qui l'ai réalisé. 
 
 <figure>

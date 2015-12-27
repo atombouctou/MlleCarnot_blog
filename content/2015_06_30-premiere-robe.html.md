@@ -29,10 +29,10 @@ De plus, c'est un modèle entièrement doublé. J'ai doublé le corps avec du co
 	<img src="/images/robe_confetti_2.JPG" alt="première robe 2">
 </figure>
 
-Ce test est plus que conclulant ! Si je ne l'ai pas encore refait, c'est parce que j'ai fait des modifications que je n'ai pas reporté sur mes calques du patron.<br>
+Ce test est plus que concluant ! Si je ne l'ai pas encore refait, c'est parce que j'ai fait des modifications que je n'ai pas reportées sur mes calques du patron.<br>
 - J'ai creusé l'encolure parce que je trouvais que l'encolure bateau que proposait le patron ne m'allait pas.<br>
 - J'ai repris les découpes princesses du dos pour que la coupe suive ma cambrure.<br>
-- J'ai raccourcis la robe d'au moins 10 cm.
+- J'ai raccourci la robe d'au moins 10 cm.
 Et voila, cette robe est géniale, confortable et superbe :)<br>
 Et en plus elle tourne !!!
 

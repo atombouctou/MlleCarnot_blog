@@ -20,7 +20,7 @@ Lang: fr
 
 Tout commence l'année dernière à mes débuts sérieux de couture. La robe belladone est un des patrons qui m'a donné envie de me lancer. 
 Je l'ai reçu à mon anniversaire l'année dernière.
-J'avais vu [cette version](http://katyandlaney.com/2013/10/14/iris-belladone/) de Katy, et je l'ai montrée à ma maman en lui disant que j'aimerai bien trouver un tissu dans cet esprit là (genre vif avec des touches fluos et si possible d'énormes fleurs). Et elle m'a dit : " Eh mais j'ai quelque chose qui y ressemble !", et elle m'a présenté ce tissu. 
+J'avais vu [cette version](http://katyandlaney.com/2013/10/14/iris-belladone/) de Katy, et je l'ai montrée à ma maman en lui disant que j'aimerais bien trouver un tissu dans cet esprit-là (genre vif avec des touches fluos et si possible d'énormes fleurs). Et elle m'a dit : " Eh mais j'ai quelque chose qui y ressemble !", et elle m'a présenté ce tissu. 
 C'était pas tout à fait le type de tissu que j'avais en tête, MAIS, ce tissu est magnifique ! Je pense que c'est une flanelle de coton (elle est super douce). Et puis plus le temps passait, plus j'aimais son imprimé. 
 
 <figure>
@@ -30,9 +30,9 @@ C'était pas tout à fait le type de tissu que j'avais en tête, MAIS, ce tissu 
 Alors j'ai découpé ma belladone dedans. (en essayant d'économiser le plus de tissu). 
 Et j'ai commencé à coudre. La jupe est parfaite, en plus je l'ai doublée (donc elle n'accroche pas aux collants). 
 Mais le buste, c'était une autre affaire, j'ai du me planter en prenant mes mesures, parce que je ne rentrais pas dedans (ou alors je ne respirais plus) en plus ça baillait, ça n'allait pas du tout. 
-À ce moment là, on arrivait aux vacances (de pâques peut être, je rentre faire un coucou à mes parents et en profite pour présenter mon projet à ma maman. Elle me convainc que ça va pas du tout (jusqu'à ce moment j'étais partagée, ou je continue comme ça, ou je recommence, ou je trouve une solution). "T'as qu'à rajouter une patte de boutonnage !" que ma maman me dit. Moui, pourquoi pas. 
+À ce moment-là, on arrivait aux vacances (de Pâques peut-être, je rentre faire un coucou à mes parents et en profite pour présenter mon projet à ma maman. Elle me convainc que ça va pas du tout (jusqu'à ce moment j'étais partagée, ou je continue comme ça, ou je recommence, ou je trouve une solution). "T'as qu'à rajouter une patte de boutonnage !" que ma maman me dit. Moui, pourquoi pas. 
 
-Mais l'idée que j'avais en tête à ce moment là, c'était mais quand est ce que je vais la porter ? Ce tissu est magnifique, la robe le sera certainement... Mais une tenue complète dans ce tissu c'est pas un peu trop ? 
+Mais l'idée que j'avais en tête à ce moment-là, c'était mais quand est-ce que je vais la porter ? Ce tissu est magnifique, la robe le sera certainement... Mais une tenue complète dans ce tissu c'est pas un peu trop ? 
 J'ai donc décider de trouver un stratagème pour dissocier le haut de la jupe. 
 
 <figure>
@@ -40,7 +40,7 @@ J'ai donc décider de trouver un stratagème pour dissocier le haut de la jupe.
 	<figcaption>Une idée pour que ça rende ça :)</figcaption>
 </figure>
 
-Bon, maintenant on se retouve la première semaine de septembre, à la fin de la semaine je vais à un mariage, et il me faut une robe (évidemment). Après moults réflexions et essais, je décide de reprendre cette belladone. 
+Bon, maintenant on se retouve la première semaine de septembre, à la fin de la semaine je vais à un mariage, et il me faut une robe (évidemment). Après moult réflexions et essais, je décide de reprendre cette belladone. 
 
 Je décide de rajouter une sorte de basque qui sera cousue sous la ceinture. (En fait cette basque, c'est simplement les 20 (ou 25) premiers centimètres de la jupe). 
 Allez hop, c'est fait. 
@@ -51,10 +51,10 @@ Allez hop, c'est fait.
 </figure>
 
 Bon maintenant, il faut que je la ferme ma robe, mais ça baille dans le dos... Alors je me suis fait scotchée pour avoir une reproduction de mon buste *(note : ne pas le faire le dernier jour de l'année où il fait 30°C)*.<br>
-Je crée ma patte de boutonnage (entre les vacances avec ma maman et septembre, j'ai cousu deux chemises et deux cami, j'ai un peu moins peur des pattes de boutonnage). J'ajuste sur mon buste.
+Je crée ma patte de boutonnage (entre les vacances avec ma maman et septembre, j'ai cousu deux chemises et deux robes cami, j'ai un peu moins peur des pattes de boutonnage). J'ajuste sur mon buste.
 Je vais acheter des boutons, du biais et des crochets à jupe. D'ailleurs dans la mercerie, je rencontre pour la première fois une autre couturière belfortaine, on a papoté évidemment, ça n'a pas fait avancer plus rapidement ma robe tout ça !<br>
 Le soir, j'ai cousu mes crochets à ma ceinture et les anneaux sur la jupe en face (c'est mon stratagème pour pour faire tenir ma jupe au buste), et j'ai fait mes 7 boutonnières (à la main ! J'ai pas tout à fait confiance en ma dextérité à dompter ma vieille machine pour réaliser des boutonnières).
-Je fini de coudre les boutons le lendemain matin ! Et ... Ouf ! Je rentre dans ma robe, elle me va, elle est belle, elle est comme je veux quoi :)
+J'ai fini de coudre les boutons le lendemain matin ! Et ... Ouf ! Je rentre dans ma robe, elle me va, elle est belle, elle est comme je veux quoi :)
 
 <figure>
 	<img src="images/belladone2.JPG" alt="Robe belladone">
@@ -86,7 +86,7 @@ Avoir un joli rendu final sur ce projet n'est pas évident ! Je pense que cela e
 D'un point de vue portabilité et impression sur le projet fini.<br>
 Je suis fière de ma robe/top, ce sont deux vêtements qui ne donnent pas la même allure et peuvent se porter pour des occasions différentes.
 En version robe je l'ai portée depuis pour d'autres fêtes (parce que je trouvais qu'elle faisait un peu habillée tout de même), mais plus je la porte plus je me dis que je pourrais la porter dans la vie de tous les jours (je pense que je vais le faire dès la rentrée d'ailleurs). 
-La version top, a elle été portée plusieurs fois dans la vie de tous les jours comme ici avec une jupe en jean. 
+La version top, elle a été portée plusieurs fois dans la vie de tous les jours comme ici avec une jupe en jean. 
 
 <figure>
 	<img src="images/belladone-folle.JPG" alt="robe belladone en équilibre">

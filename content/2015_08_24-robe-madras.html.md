@@ -39,7 +39,7 @@ Bon, je n'ai pas fait de toile (parce que ça n'est pas dans mes habitudes 'haha
 	<img src="/images/robe_madras_face.JPG" alt="robe madras sur un rocher">
 </figure>
 
-Bref, tout ça pour dire que si j'avais fonctionné de la sorte avant de coudre cette robe j'aurais quand pu appliquer quelques modifications minimes telle que :
+Bref, tout ça pour dire que si j'avais fonctionné de la sorte avant de coudre cette robe j'aurais pu appliquer quelques modifications minimes telles que :
 - abaisser la taille de 3 centimètres<br>
 - remonter les poches (de 10 cm ?)<br>
 
@@ -47,16 +47,16 @@ Ces modifications mises à part (elles ont été apportées à ma version suivan
 
 <figure>
 	<img src="/images/robe_madras_dos.JPG" alt="robe madras de dos">
-	<figcaption> De dos, pour voir le tomber </figcaption>
+	<figcaption> De dos, pour voir le tombé </figcaption>
 </figure>
 
-J'adore les manches 3/4 et leurs bracelets de manches. C'est une configuration qui s'adapte très bien pour la mi-saison, l'hiver avec des collants et même l'été dans les régions ne s'ouffrant pas de la canicule (comme ici en Bretagne).
+J'adore les manches 3/4 et leurs bracelets de manches. C'est une configuration qui s'adapte très bien pour la mi-saison, l'hiver avec des collants et même l'été dans les régions ne souffrant pas de la canicule (comme ici en Bretagne).
 C'est une robe que je porte très fréquemment, toute l'année, et dans laquelle je suis libre de mes mouvements (les photos sont là pour preuves). :)
 
 <figure>
 	<img src="/images/robe_madras_dos_test2.png" alt="robe madras">
 </figure>
 
-*PS : Comme mon papi me l'a fait remarqué, je l'ai boutonnée comme pour un garçon (coté gauche sur coté droit). C'est pas une erreur, c'est que ça rendait mieux ainsi.*
+*PS : Comme mon papi me l'a fait remarquer, je l'ai boutonnée comme pour un garçon (coté gauche sur coté droit). C'est pas une erreur, c'est que ça rendait mieux ainsi.*
 
 Photos prises par a5e, proche de [Porspoder](https://fr.wikipedia.org/wiki/Porspoder) Finistère (29).
