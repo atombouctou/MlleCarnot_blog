@@ -12,6 +12,9 @@ Lang: fr
 - 1m (peut être un peu moins) de coton gratté pour la doublure du corps,<br>
 - une longue fermeture éclair, <br>
 
+
+BONNE ANNÉE 2016 ! 
+
 <figure>
 	<img src="images/robeaglaLafayette.JPG" alt="robe devant la pancarte de la Gallerie Lafayette">
 </figure>
