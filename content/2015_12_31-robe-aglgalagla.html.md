@@ -5,6 +5,8 @@ Date: 2015-12-31 12:00
 Slug: robe-aglagalagla
 Lang: fr
 
+BONNE ANNÉE 2016 ! 
+
 **Marque et Modèle :** ["Gathered Sundress" de Pattern Runway](http://patternrunway.com/shop/gathered-sundress-pattern/), modification de la jupe<br>
 **Taille :** 38 <br>
 **Métrage et Fourniture:** <br>
@@ -12,8 +14,6 @@ Lang: fr
 - 1m (peut être un peu moins) de coton gratté pour la doublure du corps,<br>
 - une longue fermeture éclair, <br>
 
-
-BONNE ANNÉE 2016 ! 
 
 <figure>
 	<img src="images/robeaglaLafayette.JPG" alt="robe devant la pancarte de la Gallerie Lafayette">
