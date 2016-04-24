@@ -1,5 +1,5 @@
 Title: La robe fleur bleue
-Category: Couture
+Category: couture
 Tags: couture, robe
 Date: 2015-07-01 09:53
 Slug: robe-fleur-bleue

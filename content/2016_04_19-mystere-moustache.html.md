@@ -1,5 +1,5 @@
 Title: Le (mystérieux) cas de l'imprimé moustache. 
-Category: Couture
+Category: couture
 Tags: couture, chemise
 Date: 2016-04-20
 Slug: mystere-moustache

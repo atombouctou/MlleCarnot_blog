@@ -1,5 +1,5 @@
 Title: La belladone à oiseaux
-Category: Couture
+Category: couture
 Tags: couture, robe
 Date: 2015-10-28 12:00
 Slug: belladone-oiseaux

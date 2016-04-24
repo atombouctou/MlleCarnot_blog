@@ -1,5 +1,5 @@
 Title: Ma robe grecque
-Category: Couture
+Category: couture
 Tags: couture, robe
 Date: 2015-06-30 09:53
 Slug: robe-grecque

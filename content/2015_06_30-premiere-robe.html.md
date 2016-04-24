@@ -1,5 +1,5 @@
 Title: Ma première robe
-Category: Couture
+Category: couture
 Tags: couture, robe
 Date: 2015-06-30 00:03
 Slug: premiere-robe

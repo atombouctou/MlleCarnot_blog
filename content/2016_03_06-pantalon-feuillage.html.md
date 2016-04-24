@@ -1,5 +1,5 @@
 Title: Pantalon #2 feuillage
-Category: Couture
+Category: couture
 Tags: couture, pantalon
 Date: 2016-04-02 12:00
 Slug: pantalon-feuillage

@@ -1,5 +1,5 @@
 Title: Pantalon #3 GINGER !!!
-Category: Couture
+Category: couture
 Tags: couture, pantalon
 Date: 2015-04-03 12:00
 Slug: pantalon-ginger

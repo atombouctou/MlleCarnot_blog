@@ -1,5 +1,5 @@
 Title: La roble agla-gala-gla
-Category: Couture
+Category: couture
 Tags: couture, robe
 Date: 2015-12-31 12:00
 Slug: robe-aglagalagla

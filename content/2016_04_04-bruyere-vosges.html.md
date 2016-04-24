@@ -1,5 +1,5 @@
 Title: Bruyère des vosges
-Category: Couture
+Category: couture
 Tags: couture, chemise
 Date: 2015-04-03 12:00
 Slug: bruyere-vosges

@@ -1,5 +1,5 @@
 Title: Mon premier pull : mon premier tricot
-Category: Couture
+Category: couture
 Tags: tricot, pull
 Date: 2016-03-06 12:00
 Slug: premier-tricot

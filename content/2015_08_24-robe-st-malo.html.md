@@ -1,5 +1,5 @@
 Title: La robe Ikat	(ou la robe de Saint Malo)
-Category: Couture
+Category: couture
 Tags: couture, robe
 Date: 2015-08-27 12:00
 Slug: robe-ikat

@@ -1,5 +1,5 @@
 Title: Voyage en Irlande (Wwoofing)
-Category: Couture
+Category: couture
 Tags: tricot, jacquard, voyage, bonnet, irlande
 Date: 2015-11-25 12:00
 Slug: voyage-irlande
