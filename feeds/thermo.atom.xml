@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Mlle Carnot</title><link href="http://mllecarnot.org/" rel="alternate"></link><link href="http://mllecarnot.org/feeds/thermo.atom.xml" rel="self"></link><id>http://mllecarnot.org/</id><updated>2015-01-31T20:31:00+01:00</updated><entry><title>Mais qu'est ce que la Pression ?</title><link href="http://mllecarnot.org/pression.html" rel="alternate"></link><updated>2015-01-31T20:31:00+01:00</updated><author><name>Mlle Carnot</name></author><id>tag:mllecarnot.org,2015-01-31:pression.html</id><summary type="html">&lt;p&gt;On peut voir la pression comme une force rapportée à la surface sur laquelle elle s'applique .
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mlle Carnot</title><link href="http://mllecarnot.org/" rel="alternate"></link><link href="http://mllecarnot.org/feeds/thermo.atom.xml" rel="self"></link><id>http://mllecarnot.org/</id><updated>2015-01-31T20:31:00+01:00</updated><entry><title>Mais qu'est ce que la Pression ?</title><link href="http://mllecarnot.org/pression.html" rel="alternate"></link><published>2015-01-31T20:31:00+01:00</published><author><name>Mlle Carnot</name></author><id>tag:mllecarnot.org,2015-01-31:pression.html</id><summary type="html">&lt;p&gt;On peut voir la pression comme une force rapportée à la surface sur laquelle elle s'applique .
 &lt;/p&gt;
 &lt;div class="math"&gt;$$[Pa] = [\frac{N}{m²}]$$&lt;/div&gt;
 &lt;p&gt;On a tous entendu parler de la pression atmosphérique, c'est la  force qu'applique l'air (de l'atmosphère) sur nous et sur toute la surface de la Terre.
 Elle est égale, lorsque l'on est au niveau de la mer à environ :
 1013,25 hPA soit 1,01325. 10⁵ Pa ou 1 atm (= atmosphère) ou encore environ 1 bar (= 10⁵ Pa).
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/atmosphere_terre.jpg" alt="La Terre et le détail des couches atmosphérique"&gt;
     &lt;figcaption&gt;La terre et le détail des couches constituant l'atmosphère (Crédits : &lt;a href="http://media4.obspm.fr/public/AMC/credit_asm.html"&gt;Astrophysique mesures&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
@@ -88,19 +88,19 @@ En thermodynamique et globalement dans toute la physique on utilise toujours la 
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</summary><category term="pression"></category><category term="grandeurs caractéristiques"></category></entry><entry><title>Mais qu'est ce que la Température ?</title><link href="http://mllecarnot.org/temperature.html" rel="alternate"></link><updated>2014-11-30T13:00:00+01:00</updated><author><name>Mlle Carnot</name></author><id>tag:mllecarnot.org,2014-11-30:temperature.html</id><summary type="html">&lt;p&gt;La température est une grandeur physique mesurée à l'aide d'un thermomètre. &lt;/p&gt;
+&lt;/script&gt;</summary><category term="pression"></category><category term="grandeurs caractéristiques"></category></entry><entry><title>Mais qu'est ce que la Température ?</title><link href="http://mllecarnot.org/temperature.html" rel="alternate"></link><published>2014-11-30T13:00:00+01:00</published><author><name>Mlle Carnot</name></author><id>tag:mllecarnot.org,2014-11-30:temperature.html</id><summary type="html">&lt;p&gt;La température est une grandeur physique mesurée à l'aide d'un thermomètre. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dans la vie courante&lt;/strong&gt; la température est liée aux sensations de chaud et de froid. Ce que l'on ressent sont les différences de températures entre notre corps et l'environnement extérieur.
 Si il y a une différence de température, alors il y a un transfert thermique. L'élément le plus chaud va se refroidir et l'élément le plus froid va se réchauffer.
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/thermometreCF.png" alt="Thermometre gradué Celsius Farenheit"&gt;
     &lt;figcaption&gt;Thermometre gradué en degrés Celsius et Farenheit&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;En physique&lt;/strong&gt;; On sait que les particules qui composent un système matériel ne sont jamais au repos. Plus elles s'agitent plus il y a de frottements entre elles plus il y a une dissipation importante d'énergie thermique.
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/Thermally_Agitated_Molecule.gif" alt="Agitation thermique d'une protéine"&gt;
     &lt;figcaption&gt;Agitation thermique d'un segment de la protéine alpha hélix (&lt;a href="https://en.wikipedia.org/wiki/Temperature"&gt;Wikipédia&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Ainsi la température est une grandeur physique qui caractérise cette dissipation thermique et de ce fait c'est une mesure indirecte de l'agitation moléculaire d'un système.&lt;/p&gt;</summary><category term="température"></category><category term="grandeurs caractéristiques"></category></entry><entry><title>Mais qu'est ce que la Chaleur ? (Partie I)</title><link href="http://mllecarnot.org/mais-quest-ce-que-la-chaleur-partie-i.html" rel="alternate"></link><updated>2014-11-23T00:00:00+01:00</updated><author><name>Mlle Carnot</name></author><id>tag:mllecarnot.org,2014-11-23:mais-quest-ce-que-la-chaleur-partie-i.html</id><summary type="html">&lt;h2&gt;Partie I : Petite histoire de la chaleur&lt;/h2&gt;
+&lt;p&gt;Ainsi la température est une grandeur physique qui caractérise cette dissipation thermique et de ce fait c'est une mesure indirecte de l'agitation moléculaire d'un système.&lt;/p&gt;</summary><category term="température"></category><category term="grandeurs caractéristiques"></category></entry><entry><title>Mais qu'est ce que la Chaleur ? (Partie I)</title><link href="http://mllecarnot.org/mais-quest-ce-que-la-chaleur-partie-i.html" rel="alternate"></link><published>2014-11-23T00:00:00+01:00</published><author><name>Mlle Carnot</name></author><id>tag:mllecarnot.org,2014-11-23:mais-quest-ce-que-la-chaleur-partie-i.html</id><summary type="html">&lt;h2&gt;Partie I : Petite histoire de la chaleur&lt;/h2&gt;
 &lt;p&gt;Dans le &lt;a href="http://www.larousse.fr/dictionnaires/francais/chaleur/14479"&gt;dictionnaire&lt;/a&gt; il est écrit : &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;"Chaleur" : nf : Qualité de ce qui est chaud.&lt;/p&gt;
@@ -131,20 +131,20 @@ La masse qui "partait" était le phlogistique qui s'exprimait sous forme de chal
 &lt;em&gt;ça liait le combustible à la chaleur/énergie lors de la combustion.&lt;/em&gt; 
 &lt;strong&gt;&lt;em&gt;Or tout ça est lié !&lt;/em&gt;&lt;/strong&gt;
 Aujourd'hui, on sait que pour avoir une flamme, il faut du &lt;a href="https://fr.wikipedia.org/wiki/Comburant"&gt;comburant&lt;/a&gt;, du &lt;a href="https://fr.wikipedia.org/wiki/Combustible"&gt;combustible&lt;/a&gt; et une source d'énergie thermique (chaleur).&lt;/p&gt;
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/Triangle_du_feu.jpg" alt="Schéma du triangle du feu"&gt;
     &lt;figcaption&gt;Triangle du feu&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Bon, la théorie du phlogistique s'est révélée fausse. 
 Cela a été mis en évidence par &lt;em&gt;&lt;a href="https://fr.wikipedia.org/wiki/Antoine_Lavoisier"&gt;Antoine Laurent de Lavoisier&lt;/a&gt;&lt;/em&gt; qui a montré l'implication de l'oxygène dans le processus de combustion.&lt;/p&gt;
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife2.jpg" alt="Peinture d'Antoine Lavoisier et sa femme : Marie-Anne Pierrette Paulze"&gt;
     &lt;figcaption&gt;Antoine Lavoisier et sa femme : [Marie-Anne Pierrette Paulze](https://fr.wikipedia.org/wiki/Marie-Anne_Pierrette_Paulze)&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Au XVIII siècle: une nouvelle théorie est mise en place par &lt;em&gt;&lt;a href="https://fr.wikipedia.org/wiki/Joseph_Black"&gt;Joseph Black&lt;/a&gt;&lt;/em&gt; pour développer ce concept de chaleur : &lt;strong&gt;&lt;a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_calorique"&gt;la théorie du calorique&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/Joseph_Black2.jpg" alt="Gravure de Joseph Black"&gt;
     &lt;figcaption&gt;Joseph Black&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -154,7 +154,7 @@ Cela a été mis en évidence par &lt;em&gt;&lt;a href="https://fr.wikipedia.org
 &lt;p&gt;Comme toutes les théories, celle-ci est mise à mal par quelque chose de plus fort qu'elle : un principe. Et pas n'importe lequel : le premier principe de la thermodynamique ! &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Notons tout de même que la théorie du calorique (aujourd'hui complètement obsolète) a permis à Joseph Black de mettre en place des concepts de &lt;strong&gt;&lt;em&gt;chaleur latente&lt;/em&gt;&lt;/strong&gt; et de &lt;strong&gt;&lt;em&gt;chaleur spécifique&lt;/em&gt;&lt;/strong&gt;. En fait aujourd'hui on parle d'"&lt;a href="https://fr.wikipedia.org/wiki/Enthalpie_de_changement_d%27%C3%A9tat"&gt;enthalpie de changement d'état&lt;/a&gt;" et de "&lt;a href="https://fr.wikipedia.org/wiki/Capacit%C3%A9_thermique_massique"&gt;capacité thermique massique&lt;/a&gt;". Mais ces termes sont encore employés dans certaines documentations.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Au XIX siècle (en 1824 précisément), &lt;strong&gt;&lt;a href="https://fr.wikipedia.org/wiki/Sadi_Carnot_%28physicien%29"&gt;Sadi Carnot&lt;/a&gt;&lt;/strong&gt; publie ses "&lt;em&gt;Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance&lt;/em&gt;" soit les machines thermiques.&lt;/p&gt;
-&lt;figure&gt;
+&lt;figure role="group"&gt;
     &lt;img src="/images/Sadi_Carnot2.jpeg" alt="Portrait de Sadi Carnot"&gt;
     &lt;figcaption&gt;Sadi Carnot&lt;/figcaption&gt;
 &lt;/figure&gt;
