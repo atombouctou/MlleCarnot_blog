@@ -14,7 +14,7 @@ Lang: fr
 - Thermocollant.<br>
 
 <figure role="group">
-	<img src="images/belladone-rouge.JPG" alt="Dos de la robe belladone">
+	<img src="/images/belladone-rouge.JPG" alt="Dos de la robe belladone">
 	<figcaption>Je ne peux pas vous présenter ce projet sans vous raconter son histoire :)</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ J'avais vu [cette version](http://katyandlaney.com/2013/10/14/iris-belladone/) d
 C'était pas tout à fait le type de tissu que j'avais en tête, MAIS, ce tissu est magnifique ! Je pense que c'est une flanelle de coton (elle est super douce). Et puis plus le temps passait, plus j'aimais son imprimé. 
 
 <figure role="group">
-	<img src="images/belladone3.JPG" alt="Dos de la robe belladone">
+	<img src="/images/belladone3.JPG" alt="Dos de la robe belladone">
 </figure>
 
 Alors j'ai découpé ma belladone dedans. (en essayant d'économiser le plus de tissu). 
@@ -36,7 +36,7 @@ Mais l'idée que j'avais en tête à ce moment-là, c'était mais quand est-ce q
 J'ai donc décider de trouver un stratagème pour dissocier le haut de la jupe. 
 
 <figure role="group">
-	<img src="images/belladone-top-dos.JPG" alt="Top belladone de face">
+	<img src="/images/belladone-top-dos.JPG" alt="Top belladone de face">
 	<figcaption>Une idée pour que ça rende ça :)</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Je décide de rajouter une sorte de basque qui sera cousue sous la ceinture. (En
 Allez hop, c'est fait. 
 
 <figure role="group">
-	<img src="images/belladone-course.JPG" alt="Top belladone en courant">
+	<img src="/images/belladone-course.JPG" alt="Top belladone en courant">
 	<figcaption>C'est maintenant que commence la course</figcaption>
 </figure>
 
@@ -57,13 +57,13 @@ Le soir, j'ai cousu mes crochets à ma ceinture et les anneaux sur la jupe en fa
 J'ai fini de coudre les boutons le lendemain matin ! Et ... Ouf ! Je rentre dans ma robe, elle me va, elle est belle, elle est comme je veux quoi :)
 
 <figure role="group">
-	<img src="images/belladone2.JPG" alt="Robe belladone">
+	<img src="/images/belladone2.JPG" alt="Robe belladone">
 </figure>
 
 Mais c'est pas fini, dans une heure, on prend la route pour aller au mariage, mais d'ici là il faut que je couse une cravate dans le tissu de ma robe ! (challenge accepted !) Et hop ! impression de patron de cravate ([ici](https://threadtheoryblog.wordpress.com/2015/06/12/silk-tie-sewing-tutorial/) plusieurs patrons pas mal du tout sont référencés !), découpage patron et tissu, couture ! Et hop on est parti :)
 
 <figure role="group">
-	<img src="images/belladone1.JPG" alt="Robe belladone">
+	<img src="/images/belladone1.JPG" alt="Robe belladone">
 </figure>
 
 Résumé des **modifications** apportées au patron : <br>
@@ -75,7 +75,7 @@ Résumé des **modifications** apportées au patron : <br>
 - couture des empiècements d'épaules au corps (pour qu'ils ne baillent pas)<br>
 
 <figure role="group">
-	<img src="images/belladone-top-face.JPG" alt="top belladone de face">
+	<img src="/images/belladone-top-face.JPG" alt="top belladone de face">
 </figure>
 
 **Ressentis et impressions :**
@@ -89,7 +89,7 @@ En version robe je l'ai portée depuis pour d'autres fêtes (parce que je trouva
 La version top, elle a été portée plusieurs fois dans la vie de tous les jours comme ici avec une jupe en jean. 
 
 <figure role="group">
-	<img src="images/belladone-folle.JPG" alt="robe belladone en équilibre">
+	<img src="/images/belladone-folle.JPG" alt="robe belladone en équilibre">
 	<figcaption>En cadeau, la voici en condition "réelle" de portabilité</figcaption>
 </figure>
 

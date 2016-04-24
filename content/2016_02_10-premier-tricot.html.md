@@ -11,7 +11,7 @@ Lang: fr
 - 13 pelotes de la marque "Drops" coloris "ALASKA bleu nuit 15"<br>
 
 <figure>
-	<img src="images/pull_coupe.JPG" alt="mon premier pull de face">
+	<img src="/images/pull_coupe.JPG" alt="mon premier pull de face">
 </figure>
 
 Voici mon premier tricot, mon premier vrai tricot ! Autant vous dire que j'en suis super fière ;-)<br><br>

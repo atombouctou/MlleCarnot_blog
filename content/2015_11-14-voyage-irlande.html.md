@@ -174,7 +174,7 @@ En bonus, parce que je les aime bien :)
 </figure>
 
 <figure>
-	<img src="images/IrelandArriveeRoscoff.JPG" alt="Deux goélands">
+	<img src="/images/IrelandArriveeRoscoff.JPG" alt="Deux goélands">
 	<figcaption>Deux goélands pris lors de l'arrivée à Roscoff en ferry au moment du lever de soleil</figcaption>
 </figure>
 

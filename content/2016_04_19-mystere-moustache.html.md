@@ -15,7 +15,7 @@ Parlons, du mystérieux cas de l'imprimé moustache :)<br>
 Tout le mystère réside dans le : Pourquoi j'ai acheté ce tissu ? 
 
 <figure>
-	<img src="images/Moustaches_Reelle.JPG" alt="chemisier Moustaches avec gilet">
+	<img src="/images/Moustaches_Reelle.JPG" alt="chemisier Moustaches avec gilet">
 	<figcaption>Chemisier Moustaches en conditions réelles de portabilité</figcaption>
 </figure>
 

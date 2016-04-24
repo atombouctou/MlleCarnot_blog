@@ -16,7 +16,7 @@ BONNE ANNÉE 2016 !
 
 
 <figure>
-	<img src="images/robeaglaLafayette.JPG" alt="robe devant la pancarte de la Gallerie Lafayette">
+	<img src="/images/robeaglaLafayette.JPG" alt="robe devant la pancarte de la Gallerie Lafayette">
 </figure>
 
 
@@ -29,7 +29,7 @@ Mes exigences pour cette robe étaient :<br>
 - et condition supplémentaire :  une robe faite avec que les fournitures de mon stock.<br>
 
 <figure>
-	<img src="images/robeagla1.JPG" alt="robe de face">
+	<img src="/images/robeagla1.JPG" alt="robe de face">
 </figure>
 
 Oui, je viens de faire l'inventaire de mon stock et j'ai malgré tout beaucoup de tissus. Certains ont des projets qui leur sont destinés (il me manque juste du temps en somme), d'autres ils en avaient quand je les ai achetés mais il semblerait que j'ai oublié ou qu'ils ne conviennent plus à ce que je veux, ceux là, il leurs faut de nouveaux projets. 
@@ -40,21 +40,21 @@ J'ai tracé la jupe selon [le tuto de Deer&Doe](http://blog.deer-and-doe.fr/2556
 
 
 <figure>
-	<img src="images/robeaglaLafayette1.JPG" alt="robe de face">
+	<img src="/images/robeaglaLafayette1.JPG" alt="robe de face">
 </figure>
 
 Pour le choix du tissu : j'avais ce tissu bleu dans mon stock depuis au moins un an (il doit faire partie des premiers tissus que j'ai achetés à [Tissu Eco](http://www.tissu-eco.com/)), il n'avait pas vraiment de projet qui lui était destiné. Et il est relativement lourd, je comptais dessus pour un beau tombé de la jupe cercle (et je trouve que c'est réussi ;) ).
 
 
 <figure>
-	<img src="images/robeaglaTourne0.JPG" alt="la jupe tourne !">
+	<img src="/images/robeaglaTourne0.JPG" alt="la jupe tourne !">
 </figure>
 
 Allez hop ! J'avais toutes mes idées en tête et je mis suis mise le 11 novembre. Décalcage, découpage, couture ! J'ai fini le corps de la robe dans la journée.
 Simplement voilà, ce tissu a un beau tombé mais alors il n'est pas du tout agréable au contact direct de la peau. 
 
 <figure>
-	<img src="images/robeaglaAmpleur.JPG" alt="l'ampleur de la jupe">
+	<img src="/images/robeaglaAmpleur.JPG" alt="l'ampleur de la jupe">
 </figure>
 
 Il me fallait une doublure, sauf que le 11 novembre touche à sa fin. 
@@ -63,7 +63,7 @@ Mais le souci c'est que dans la semaine qui suit, le jeudi il y a le Congrès In
 Autant vous dire que j'étais crevée et quand j'ai fini ma robe le vendredi soir (tard) je ne tennais plus vraiment debout. Donc il ne faut pas regarder la doublure de trop près. Le montage, ça ne va pas du tout ! Je pense que je vais la démonter et la remonter tranquillement. (ça me fera un entrainement, parce que là j'ai un peu galéré. J'ai commencé par coudre toute ma doublure en m'appliquant. Ah ! elle était super bien posée, mais on ne pouvait plus la retourner --'... Bref, j'ai des trucs à revoir sur ce point là).
 
 <figure>
-	<img src="images/robeaglaLafayette2.JPG" alt="robe de face">
+	<img src="/images/robeaglaLafayette2.JPG" alt="robe de face">
 </figure>
 
 J'ai l'ai porté le soir du Gala ! (j'étais très fière de moi, mine de rien). 
@@ -73,7 +73,7 @@ D'ailleurs j'ai rencontré, une belladone. Je suis allée la voir, en lui disant
 
 
 <figure>
-	<img src="images/robeaglaProfil.JPG" alt="de profil">
+	<img src="/images/robeaglaProfil.JPG" alt="de profil">
 </figure>
 
 Donc pendant les vacances de Noël, je suis montée à Paris. Et j'ai décidé de porter ma robe, je me disais que ça pourrait être l'occasion de belles photos. 
@@ -82,13 +82,13 @@ Et puis il y a cette pancarte immense ! C'était l'occasion :)
 Lorsque ma maman a commencé à prendre des photos, des gens présents sur la terrasse ont du penser qu'ils assistaient à une sorte de shooting. Je pense qu'ils ont vite compris que c'était amateur quand je me suis mise à courir pour "qu"il y ait du mouvement dans ma robe :)"
 
 <figure>
-	<img src="images/robeaglaCours.JPG" alt="Robe qui court">
+	<img src="/images/robeaglaCours.JPG" alt="Robe qui court">
 </figure>
 
 Mine de rien, j'aime bien l'effet de cette robe. En plus, elle tourne ! 
 
 <figure>
-	<img src="images/robeaglaTourne.JPG" alt="Robe qui tourne">
+	<img src="/images/robeaglaTourne.JPG" alt="Robe qui tourne">
 </figure>
 
 PS : C'est ma robe de gala et de premier de l'an (Rassurez-vous, je n'étais pas en bottes fourrées pour ces occasions) :-)
