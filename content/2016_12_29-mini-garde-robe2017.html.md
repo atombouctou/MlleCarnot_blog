@@ -4,8 +4,8 @@ Tags: couture
 Date: 2017-02-14 12:00
 Slug: mini-garde-robe-2017
 Lang: fr
-Summary: Tests
-Status: draft
+
+
 
 Coucou à vous :)
 Et bonne année ! (oui oui c'est article est écrit depuis un petit moment et puis il n'est jamais trop tard pour vous souhaiter pleins de belles choses :)).
@@ -149,9 +149,8 @@ D’avoir mis à plat mes idées de projets lingerie, ça me donne envie.
 
 Si je couds tout, je ne passe au travers que de 4 catégories : 1 haut chaine et trame, 1 short (enfin pas impossible qu’un short châtaigne ou qu’un Ginger raccourci viennent se faufiler par-là (j’ai déjà les tissus)), 1 manteau et 1 maillot de bain (mais sur ces 2 catégories j’avais prévenu).
 
-En tout cas c’est bien motivant. 
+En tout cas c’est très motivant. 
 
-J’avais prévu de coudre le Safran en janvier, mais Mme Réaliste (la petite voix pointue dans ma tête) m’informe que c’est un peu cavalier et très certainement infaisable. Alors je vais me pencher sur un cousette plus rapide (la brume) ou sans surprise car déjà réalisée (la chemise à carreaux ? ).
+J’avais prévu de coudre le Safran en janvier, mais Mme Réaliste (la petite voix pointue dans ma tête) m’informe que c’est un peu cavalier et très certainement infaisable. Alors je vais me pencher sur un cousette plus rapide.
 
-
-PS : Merci à Marcelle du Bungalow de m'avoir motiver à publier mes articles :)
+PS : Merci à Marcelle du Bungalow de m'avoir motivée à publier mes articles :)
