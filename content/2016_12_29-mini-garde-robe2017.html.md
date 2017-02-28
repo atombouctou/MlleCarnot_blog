@@ -1,6 +1,6 @@
 Title: Mini garde-robe 2017
 Category: couture
-Tags: couture
+Tags: couture, blabla
 Date: 2017-02-14 12:00
 Slug: mini-garde-robe-2017
 Lang: fr
